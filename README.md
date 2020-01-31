@@ -1,16 +1,15 @@
-"""
-Tammy Glazer Writeup - HW7
+# Project Description
 
-In the completion of this assignment, I focussed on abstracting specific tasks
+In the completion of this project, I focussed on abstracting specific tasks
 as individual methods. I also decided to add an attribute to the client class
 to store an open connection to preserve this connection as different methods
 are applied. Below is a summary of the purpose of each method (excluding
 open_connection and close_connection) and specific decisions made at each step.
-Please note that I decided to combine find_cands and clean_dirty_data into a
-single function called clean_dirty_data, because I apply cleaning and uploading
-one candidate group at a time (rather than first finding all candidate groups
-and then retroactively iterating through these groups to calculate
-similarity scores).
+
+## Running Code
+Run python3 insdriver.py to run all phases of the data loading, cleaning and integration. Run python3 insdriver.py --help to see the arguments.
+
+## Functions
 
 build_tables
 The build_tables method creates all necessary tables for the entire analysis
