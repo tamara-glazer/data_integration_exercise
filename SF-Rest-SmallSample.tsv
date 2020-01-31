@@ -1,0 +1,507 @@
+business_name	business_address	business_city	business_state	business_postal_code	business_latitude	business_longitude	business_phone_number	inspection_id	inspection_date	inspection_score	inspection_type	violation_id	violation_description	risk_category
+Le Regency	18 California St	San Francisco	CA	94108	37.793687	-122.396592		2240_20171020	2017-10-20	79.0	Routine - Unscheduled	2240_20171020_103157	Food safety certificate or food handler card not available	Low Risk
+Cafe La Flore 1	1032 Clement St	San Francisco	CA	94118				78844_20161017	2017-10-17	85.0	Routine - Unscheduled	78844_20161017_103153	Inadequate dressing rooms or improper storage of personal items	Low Risk
+Da Cafe	407 Clement St	San Francisco	CA	94118				86647_20170517	2017-05-17	72.0	Routine - Unscheduled	86647_20170517_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Wonderful Dessert & Cafe	2035 IRVING St	San Francisco	CA	94122	37.763399	-122.479654		18767_20160923	2017-09-23	88.0	Routine - Unscheduled	18767_20160923_103154	Unclean or degraded floors walls or ceilings	Low Risk
+HAYES STREET GRILL	324 HAYES St	San Francisco	CA	94102	37.777048	-122.421844		3640_20170711	2017-07-11	83.0	Routine - Unscheduled	3640_20170711_103125	Noncompliance with shell fish tags or display	Moderate Risk
+Little Beijing Restaurant	1316 Noriega St	San Francisco	CA	94122			+14155710365	81976_20160706	2017-07-06		Reinspection/Followup			
+Ginger Elizabeth Chocolates	3108 Fillmore St	San Francisco	CA	94123			+14156831153	92042_20171109	2017-11-09		New Construction			
+Tacos San Buena	16th & Shotwell St	San Francisco	CA	94102	37.779847	-122.418985	+14155556127	62277_20160429	2017-04-29	90.0	Routine - Unscheduled	62277_20160429_103148	No thermometers or uncalibrated thermometers	Low Risk
+UNITED LIQUORS & DELI	2401 CHESTNUT St	San Francisco	CA	94123	37.799934	-122.442977		4555_20171128	2017-11-28	94.0	Routine - Unscheduled	4555_20171128_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Pica Pica	401 VALENCIA St	San Francisco	CA	94103	37.766394	-122.421986		62532_20161102	2017-11-02	92.0	Routine - Unscheduled	62532_20161102_103120	Moderate risk food holding temperature	Moderate Risk
+EDEN PLAZA CAFE	600 HARRISON St	San Francisco	CA	94107	37.783954	-122.395699		811_20170906	2017-09-06	94.0	Routine - Unscheduled	811_20170906_103139	Improper food storage	Low Risk
+BLUE DANUBE COFFEE HOUSE	306 CLEMENT St	San Francisco	CA	94118	37.783058	-122.462502		2256_20160518	2017-05-18	76.0	Routine - Unscheduled	2256_20160518_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Me So Hungry	Off The Grid	San Francisco	CA					70044_20160514	2017-05-14	87.0	Routine - Unscheduled	70044_20160514_103157	Food safety certificate or food handler card not available	Low Risk
+LITTLE JOES PIZZA REST.	5006 MISSION St	San Francisco	CA	94112	37.718359	-122.439655	+14155333684	3252_20160725	2017-07-25	86.0	Routine - Unscheduled	3252_20160725_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Epicurean@SHCP	1055 Ellis St.	San Francisco	CA	94109				89072_20161018	2017-10-18		Reinspection/Followup			
+The Good Chocolate	25 Leland Ave	San Francisco	CA	94134				93297_20171012	2017-10-12		New Construction			
+Fresco Pizza and Grill	1338 Polk St	San Francisco	CA	94109	37.789278	-122.420387		64141_20170906	2017-09-06	90.0	Routine - Unscheduled	64141_20170906_103133	Foods not protected from contamination	Moderate Risk
+Kingza	1009 Guerrero St	San Francisco	CA	94110			+14155745939	90212_20180125	2017-01-25	90.0	Routine - Unscheduled	90212_20180125_103118	Employee eating or smoking	Moderate Risk
+KABABAYAN FAST FOOD	2706 MISSION St	San Francisco	CA	94110	37.753691	-122.418657	+14155929635	1249_20160216	2017-02-16	83.0	Routine - Unscheduled	1249_20160216_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Farmers Market & Produce	986 Polk St	San Francisco	CA	94109	37.785787	-122.419644		60114_20170914	2017-09-14	92.0	Routine - Unscheduled	60114_20170914_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Red Dog	303 02nd St	San Francisco	CA	94107				78303_20180307	2017-03-07		Reinspection/Followup			
+THE COFFEESMITH	401 Golden Gate Ave	San Francisco	CA	94102	37.781381	-122.417186		65676_20170808	2017-08-08	88.0	Routine - Unscheduled	65676_20170808_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+The Hamlin School	2120 BROADWAY St	San Francisco	CA	94115	37.794608	-122.432474		5938_20170315	2017-03-15	91.0	Routine - Unscheduled	5938_20170315_103145	Improper storage of equipment utensils or linens	Low Risk
+CAFFE' ROMA	885 Bryant St	San Francisco	CA	94103	37.774677	-122.404222	+14155297662	2737_20170801	2017-08-01		Reinspection/Followup			
+Fatted Calf SF	320 Fell St	San Francisco	CA	94102	37.775918	-122.423134	+14155405614	64351_20170920	2017-09-20		Reinspection/Followup			
+Rosamunde Sausage Grill	2832 MISSION St	San Francisco	CA	94110	37.751587	-122.418444	+14155307170	61736_20180117	2017-01-17	90.0	Routine - Unscheduled	61736_20180117_103139	Improper food storage	Low Risk
+Sweetheart Cafe	909 Grant Ave	San Francisco	CA	94108				76437_20160406	2017-04-06		Reinspection/Followup			
+SF Food Market	4614 03rd St	San Francisco	CA	94124				84393_20170919	2017-09-19	84.0	Routine - Unscheduled	84393_20170919_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Hall of Flame Burgers	73 Cambon St	San Francisco	CA	94132			+14155584444	86172_20160719	2017-07-19	92.0	Routine - Unscheduled	86172_20160719_103139	Improper food storage	Low Risk
+LESLIE A. HENNESSY, INC.	545 02nd St	San Francisco	CA	94107	37.782504	-122.392843		13218_20170829	2017-08-29	85.0	Routine - Unscheduled	13218_20170829_103131	Moderate risk vermin infestation	Moderate Risk
+The Roosevelt	2817 24th St	San Francisco	CA	94110	37.752824	-122.408599		71087_20180315	2017-03-15	93.0	Routine - Unscheduled	71087_20180315_103105	Improper cooling methods	High Risk
+Super Duper	346 Kearny St	San Francisco	CA	94108				82911_20160824	2017-08-24	89.0	Routine - Unscheduled	82911_20160824_103102	Unclean hands or improper use of gloves	High Risk
+Starbucks Coffee #22432	564 Market St	San Francisco	CA	94104				80044_20151016	2017-10-16	94.0	Routine - Unscheduled	80044_20151016_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Pho Ha Tien	1900 OCEAN Ave	San Francisco	CA	94127	37.725306	-122.462261		19138_20150423	2017-04-23	81.0	Routine - Unscheduled	19138_20150423_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+El Gran Taco Loco	3306 MISSION St	San Francisco	CA	94110	37.743767	-122.421158		32200_20150924	2017-09-24	90.0	Routine - Unscheduled	32200_20150924_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Win Garden	2794 Diamond St	San Francisco	CA	94131			+14155268592	84889_20170629	2017-06-29	81.0	Routine - Unscheduled	84889_20170629_103157	Food safety certificate or food handler card not available	Low Risk
+Genji Sushi	399 04th St	San Francisco	CA	94107				84392_20170925	2017-09-25		Reinspection/Followup			
+Imperial Palace	881 Washington St	San Francisco	CA	94108	37.795138	-122.406863		18480_20171129	2017-11-29	74.0	Routine - Unscheduled	18480_20171129_103142	Unclean nonfood contact surfaces	Low Risk
+ORIENTAL SEAFOOD RESTAURANT	2520 NORIEGA St	San Francisco	CA	94122	37.753638	-122.490712		2292_20160126	2017-01-26	67.0	Routine - Unscheduled	2292_20160126_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Tacos San Buena	16th & Shotwell St	San Francisco	CA	94102	37.779847	-122.418985	+14155556127	62277_20160429	2017-04-29	90.0	Routine - Unscheduled	62277_20160429_103154	Unclean or degraded floors walls or ceilings	Low Risk
+SF Food Market	4614 03rd St	San Francisco	CA	94124				84393_20160205	2017-02-05	71.0	Routine - Unscheduled	84393_20160205_103102	Unclean hands or improper use of gloves	High Risk
+Champa Garden	613 Faxon Ave	San Francisco	CA	94112			+14155344186	75402_20170901	2017-09-01		Reinspection/Followup	75402_20170901_103109	Unclean or unsanitary food contact surfaces	High Risk
+Pho Express	380 Bush St #4	San Francisco	CA	94104				79206_20160830	2017-08-30	71.0	Routine - Unscheduled	79206_20160830_103102	Unclean hands or improper use of gloves	High Risk
+Taqueria Mana	439 Stockton St	San Francisco	CA	94108	37.790043	-122.407104		9273_20150910	2017-09-10		Reinspection/Followup			
+A.K. Meat	2346 clement st.	San Francisco	CA	94118	37.782058	-122.484602		36850_20160429	2017-04-29		Reinspection/Followup			
+Pedrito's	3254 23rd St	San Francisco	CA	94110			+14155641815	84533_20171115	2017-11-15	81.0	Routine - Unscheduled	84533_20171115_103103	High risk food holding temperature	High Risk
+Myconos Restaurant	1431 Polk St	San Francisco	CA	94109	37.789964	-122.420595		2902_20170815	2017-08-15	84.0	Routine - Unscheduled	2902_20170815_103131	Moderate risk vermin infestation	Moderate Risk
+BURGERMEISTER	Church St	San Francisco	CA	94114	37.768776	-122.429095	+14155432874	2627_20170105	2017-01-05	86.0	Routine - Unscheduled	2627_20170105_103138	Improper storage use or identification of toxic substances	Low Risk
+Buffalo Theory	1735 Polk St	San Francisco	CA	94109			+14155513836	85256_20180226	2017-02-26	85.0	Routine - Unscheduled	85256_20180226_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Daniel Ripley Catering	425 Barneveld Ave	San Francisco	CA	94124				84747_20151006	2017-10-06		New Ownership			
+Morty's Delicatessen	280 Golden Gate Ave	San Francisco	CA	94102				87015_20170630	2017-06-30	77.0	Routine - Unscheduled	87015_20170630_103145	Improper storage of equipment utensils or linens	Low Risk
+Ristorante Ideale	1309 Grant Ave	San Francisco	CA	94133	37.799003	-122.407274		479_20160823	2017-08-23		Reinspection/Followup			
+China Express Deli	2732 MISSION St	San Francisco	CA	94110	37.7533	-122.41863		62735_20161114	2017-11-14		Complaint			
+NOAH'S NEW YORK BAGELS #2105	1521 SLOAT Blvd	San Francisco	CA	94132	37.733944	-122.490438		5074_20160610	2017-06-10	88.0	Routine - Unscheduled	5074_20160610_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Reveille Coffee	768 Sansome	San Francisco	CA	94111	37.797327	-122.401957		64723_20150720	2017-07-20	82.0	Routine - Unscheduled	64723_20150720_103103	High risk food holding temperature	High Risk
+CREPES ON COLE	100 CARL St	San Francisco	CA	94117	37.765778	-122.450184	+14155661800	1347_20171201	2017-12-01	92.0	Routine - Unscheduled	1347_20171201_103161	Low risk vermin infestation	Low Risk
+Oriental Pearl Restaurant	760 Clay St	San Francisco	CA	94108	37.794347	-122.405994		3504_20171127	2017-11-27	92.0	Routine - Unscheduled	3504_20171127_103150	Improper or defective plumbing	Low Risk
+The Cheesecake Factory	251 Geary St, 8th Floor	San Francisco	CA	94102	37.787423	-122.407417		2898_20161103	2017-11-03	94.0	Routine - Unscheduled	2898_20161103_103139	Improper food storage	Low Risk
+Illy Caffe SF_ 90 N Montgomery	90 New Montgomery St.	San Francisco	CA	94105				88910_20170130	2017-01-30		New Construction			
+Z. Cioccolato	474 Columbus Ave	San Francisco	CA	94133				83945_20150723	2017-07-23		New Ownership	83945_20150723_103131	Moderate risk vermin infestation	Moderate Risk
+Noir Lounge	581 Hayes St	San Francisco	CA	94102				72015_20171130	2017-11-30	86.0	Routine - Unscheduled	72015_20171130_103103	High risk food holding temperature	High Risk
+Serpentine	2495 3rd St.	San Francisco	CA	94107				91198_20170419	2017-04-19		New Ownership			
+People's Bistro	1419 Haight  St	San Francisco	CA	94117				94710_20180321	2017-03-21		New Ownership - Followup			
+Sausalito Cafe #2	50 Beale St 105	San Francisco	CA		37.792414	-122.39702		33114_20170105	2017-01-05	68.0	Routine - Unscheduled	33114_20170105_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Zynga	699 08th St	San Francisco	CA	94103	37.770384	-122.404291		66963_20180312	2017-03-12	94.0	Routine - Unscheduled	66963_20180312_103127	Noncompliance with HAACP plan or variance	Moderate Risk
+House of Banquet	939 Clement St	San Francisco	CA	94118	37.782663	-122.469359	+14155780203	65050_20160608	2017-06-08		Complaint	65050_20160608_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Baker Street Bistro	2953 BAKER St	San Francisco	CA	94123	37.798172	-122.445962	+14155931475	63406_20180103	2017-01-03		Reinspection/Followup			
+Cha Cha Cha	1801 Haight St	San Francisco	CA	94117				91984_20180206	2017-02-06	76.0	Routine - Unscheduled	91984_20180206_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Batter Up	888 Geneva Ave	San Francisco	CA	94112	37.716703	-122.441228		65485_20171215	2017-12-15	90.0	Routine - Unscheduled	65485_20171215_103154	Unclean or degraded floors walls or ceilings	Low Risk
+"Japanese Tea Garden ""Tea House"""	75 Hagiwara Tea Garden Dr. Golden Gate Park	San Francisco	CA	94118	37.778382	-122.462787		62526_20151014	2017-10-14		Reinspection/Followup			
+Pan Lido Salvadoreno	3147 22nd St	San Francisco	CA	94110	37.755479	-122.417583	+14155283350	59574_20160204	2017-02-04	96.0	Routine - Unscheduled	59574_20160204_103133	Foods not protected from contamination	Moderate Risk
+Sushi Fantastic	215 Fremont St Suite 2A	San Francisco	CA	94105				85026_20170629	2017-06-29	83.0	Routine - Unscheduled	85026_20170629_103147	Inadequate ventilation or lighting	Low Risk
+Cafeto Coffee Shop	111 Richland Ave	San Francisco	CA	94110	37.736078	-122.424108		68018_20170908	2017-09-08	96.0	Routine - Unscheduled	68018_20170908_103120	Moderate risk food holding temperature	Moderate Risk
+EL NORTENO	801 bryant St	San Francisco	CA	94103	37.776011	-122.402466	+14150208621	5297_20160224	2017-02-24	92.0	Routine - Unscheduled	5297_20160224_103157	Food safety certificate or food handler card not available	Low Risk
+Lung Fung Bakery	1823 Clement St	San Francisco	CA	94121				83799_20160603	2017-06-03	83.0	Routine - Unscheduled	83799_20160603_103102	Unclean hands or improper use of gloves	High Risk
+Chart House	Pier 39  Space 206-8	San Francisco	CA	94133			+14155432260	79145_20171003	2017-10-03	94.0	Routine - Unscheduled	79145_20171003_103156	Permit license or inspection report not posted	Low Risk
+The Olympic Club Restaurant	524 Post St 2nd Floor	San Francisco	CA	94102	37.787978	-122.410904		34354_20160222	2017-02-22	100.0	Routine - Unscheduled			
+The Grubbies	123 02nd St	San Francisco	CA	94105				92751_20170927	2017-09-27		New Construction			
+HEUNG YUEN RESTAURANT	3279 22nd St	San Francisco	CA	94110	37.755282	-122.420493		1000_20171002	2017-10-02	74.0	Routine - Unscheduled	1000_20171002_103132	Improper thawing methods	Moderate Risk
+BLUE FRONT DELI	1430 HAIGHT St	San Francisco	CA	94117	37.770147	-122.446044		2323_20150513	2017-05-13	62.0	Routine - Unscheduled	2323_20150513_103142	Unclean nonfood contact surfaces	Low Risk
+El Nuevo Frutilandia	3077 24th St	San Francisco	CA	94110				69885_20171221	2017-12-21	90.0	Routine - Unscheduled	69885_20171221_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+SAFEWAY #1507	2020 MARKET St	San Francisco	CA	94114	37.768743	-122.427549	+14155867660	3834_20150420	2017-04-20	85.0	Routine - Unscheduled	3834_20150420_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+R & G Executive Lounge, Inc	631 Kearny St	San Francisco	CA	94108	37.794154	-122.404765		3016_20170418	2017-04-18		Complaint	3016_20170418_103114	High risk vermin infestation	High Risk
+Mestiza Taqueria	595 Bryant St.	San Francisco	CA	94107				90460_20170918	2017-09-18	85.0	Routine - Unscheduled	90460_20170918_103132	Improper thawing methods	Moderate Risk
+CAFE ROCCO	1131 FOLSOM St	San Francisco	CA	94103	37.776127	-122.408602		2995_20180322	2017-03-22		Complaint	2995_20180322_103103	High risk food holding temperature	High Risk
+Little Star Pizza	846 Divisadero	San Francisco	CA	94117	37.777488	-122.438257		14429_20150903	2017-09-03	91.0	Routine - Unscheduled	14429_20150903_103141	Improper food labeling or menu misrepresentation	Low Risk
+Zoe's	3088 24th St	San Francisco	CA	94110				69884_20170511	2017-05-11	82.0	Routine - Unscheduled	69884_20170511_103154	Unclean or degraded floors walls or ceilings	Low Risk
+94640 Say Hey Sausage/Carvery	24 Willie Mays Plaza  RM 2127	San Francisco	CA	94107			+14155943211	94640_20180326	2017-03-26	100.0	Routine - Unscheduled			
+Young's Restaurant	601 Kearny St	San Francisco	CA	94108	37.793702	-122.404653		1594_20150623	2017-06-23	86.0	Routine - Unscheduled	1594_20150623_103154	Unclean or degraded floors walls or ceilings	Low Risk
+The Morris	2501 Mariposa St	San Francisco	CA	94110			+14150710693	87203_20171106	2017-11-06		Reinspection/Followup			
+Dogpatch Cafe	2295 03rd St	San Francisco	CA	94107	37.760575	-122.388398		64242_20170124	2017-01-24	90.0	Routine - Unscheduled	64242_20170124_103142	Unclean nonfood contact surfaces	Low Risk
+Panchitas Cart	3091 16th St	San Francisco	CA	94103				75108_20160718	2017-07-18		New Construction	75108_20160718_103103	High risk food holding temperature	High Risk
+King's Thai Cuisine	346 CLEMENT St	San Francisco	CA	94118	37.783028	-122.463141		67828_20170327	2017-03-27	85.0	Routine - Unscheduled	67828_20170327_103102	Unclean hands or improper use of gloves	High Risk
+IRVING PIZZA	1825 IRVING St	San Francisco	CA	94122	37.763513	-122.47764		950_20170111	2017-01-11		Reinspection/Followup			
+Stripe	185 Berry St 4th Floor	San Francisco	CA	94107			+14155279556	88110_20161129	2017-11-29	87.0	Routine - Unscheduled	88110_20161129_103139	Improper food storage	Low Risk
+The Pizza Place	3901 Noriega Street	San Francisco	CA	94122	37.752933	-122.505619		32835_20171018	2017-10-18		Complaint			
+Le Meridien SF Main Kitchen/Employee Cafeteria	333 Battery St Level A & B	San Francisco	CA	94111	37.799005	-122.399862	+14155292904	65724_20161108	2017-11-08	96.0	Routine - Unscheduled	65724_20161108_103127	Noncompliance with HAACP plan or variance	Moderate Risk
+MONGKOK DIM SUM & RESTAURANT	2438 NORIEGA  St	San Francisco	CA	94122	37.753678	-122.489972		2798_20160602	2017-06-02		Reinspection/Followup			
+La Capra Coffee	360 03rd St Suite 101	San Francisco	CA	94107				83415_20150609	2017-06-09		New Construction			
+Cheese Plus	2001 Polk St	San Francisco	CA	94109	37.795273	-122.421665		6863_20170809	2017-08-09	86.0	Routine - Unscheduled	6863_20170809_103133	Foods not protected from contamination	Moderate Risk
+ADELITA'S CAKES	3780 MISSION St	San Francisco	CA	94110	37.736304	-122.424432		386_20160127	2017-01-27	90.0	Routine - Unscheduled	386_20160127_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Presidio Pizza Company	1862 Divisadero St	San Francisco	CA	94115				76905_20170227	2017-02-27	84.0	Routine - Unscheduled	76905_20170227_103114	High risk vermin infestation	High Risk
+H20 Cafe	1330 Polk St	San Francisco	CA	94109	37.789288	-122.420387		62708_20170929	2017-09-29	83.0	Routine - Unscheduled	62708_20170929_103129	Insufficient hot water or running water	Moderate Risk
+PACIFIC CATCH	2027 CHESTNUT St	San Francisco	CA	94123	37.800763	-122.436536	+14155441950	305_20180105	2017-01-05		Complaint			
+The Sunset's Best Seafood Restaurant	3060 TARAVAL St	San Francisco	CA	94116	37.742048	-122.499002		985_20160614	2017-06-14	79.0	Routine - Unscheduled	985_20160614_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Sweet Hut	519 Clement St	San Francisco	CA	94118	37.782893	-122.464948		66384_20170925	2017-09-25		Reinspection/Followup			
+CHINA EXPRESS	2798 MISSION St	San Francisco	CA	94110	37.752408	-122.418535	+14155640881	2357_20170817	2017-08-17		Reinspection/Followup			
+STARBUCKS COFFEE	1298 HOWARD St	San Francisco	CA	94103	37.775314	-122.412819	+14155567385	4425_20171129	2017-11-29	94.0	Routine - Unscheduled	4425_20171129_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Young's Restaurant	601 Kearny St	San Francisco	CA	94108	37.793702	-122.404653		1594_20171207	2017-12-07		Reinspection/Followup			
+Trattoria Contadina Restaurant	1800 Mason St	San Francisco	CA	94133	37.800147	-122.412456		3481_20160105	2017-01-05		Complaint	3481_20160105_103133	Foods not protected from contamination	Moderate Risk
+Pizza Zone	555 Beach St	San Francisco	CA	94133				76353_20160328	2017-03-28	96.0	Routine - Unscheduled	76353_20160328_103142	Unclean nonfood contact surfaces	Low Risk
+T & T Cafe	601 Broadway St	San Francisco	CA	94133				87761_20161012	2017-10-12	92.0	Routine - Unscheduled	87761_20161012_103145	Improper storage of equipment utensils or linens	Low Risk
+Batter Up	888 Geneva Ave	San Francisco	CA	94112	37.716703	-122.441228		65485_20171215	2017-12-15	90.0	Routine - Unscheduled	65485_20171215_103147	Inadequate ventilation or lighting	Low Risk
+Wrecking Ball Coffee Roasters	2271 . St	San Francisco	CA	94123			+14155718189	80051_20171018	2017-10-18	90.0	Routine - Unscheduled	80051_20171018_103158	Unpermitted food facility	Low Risk
+Lou's Cafe	100 Pine St 102	San Francisco	CA	94111			+14150584842	83449_20171130	2017-11-30	77.0	Routine - Unscheduled	83449_20171130_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+Bit Me Sandwiches	4230 18th St	San Francisco	CA	94114				87316_20180309	2017-03-09		Non-inspection site visit			
+DESTINATION BAKING COMPANY	598 Chenery St	San Francisco	CA	94131	37.734619	-122.432379	+14155460730	5033_20170104	2017-01-04	86.0	Routine - Unscheduled	5033_20170104_103156	Permit license or inspection report not posted	Low Risk
+MARNEE THAI RESTAURANT	1243 09th Ave	San Francisco	CA	94122	37.758941	-122.48591		3217_20150709	2017-07-09	71.0	Routine - Unscheduled	3217_20150709_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+STARBUCKS	5455 GEARY Blvd	San Francisco	CA	94121	37.780305	-122.477825		1413_20160809	2017-08-09		New Construction			
+New Hampshire Market	2701 20th St	San Francisco	CA	94110				80235_20170526	2017-05-26	88.0	Routine - Unscheduled	80235_20170526_103139	Improper food storage	Low Risk
+VIKINGS GIANT SUBMARINE SANDWICHES	1418 LOMBARD St	San Francisco	CA	94123	37.801334	-122.424905		670_20171023	2017-10-23	86.0	Routine - Unscheduled	670_20171023_103120	Moderate risk food holding temperature	Moderate Risk
+Starbucks Coffee	462 Powell St	San Francisco	CA	94102	37.788918	-122.408507		35771_20171211	2017-12-11	98.0	Routine - Unscheduled	35771_20171211_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Mission Chinese Food SF	2234 Mission St	San Francisco	CA	94110			+14155862800	78215_20150713	2017-07-13		Reinspection/Followup			
+Clean Bites	755 Font St  #107	San Francisco	CA	94132				92828_20180209	2017-02-09		New Construction			
+Auntie April's	4618 03rd St	San Francisco	CA	94124	37.736277	-122.390334		62688_20160310	2017-03-10		Reinspection/Followup			
+Happy Donuts	299 Ellis St	San Francisco	CA	94102				83538_20170907	2017-09-07		Reinspection/Followup			
+Pancho's Salsa Bar & Grill	1639 Polk St	San Francisco	CA	94109	37.792093	-122.421024		874_20161012	2017-10-12	94.0	Routine - Unscheduled	874_20161012_103120	Moderate risk food holding temperature	Moderate Risk
+Joo Mak	4828 Geary Blvd	San Francisco	CA	94118				76595_20170201	2017-02-01	81.0	Routine - Unscheduled	76595_20170201_103132	Improper thawing methods	Moderate Risk
+Green Heart Foods LLC	1069 Pennsylvania Ave	San Francisco	CA	94107			+14155277307	86715_20160303	2017-03-03		New Construction	86715_20160303_103120	Moderate risk food holding temperature	Moderate Risk
+Loews Regency San Francisco (Pastry Kitchen)	222 Sansome St 37th Floor	San Francisco	CA	94104			+14155279888	83013_20170928	2017-09-28	98.0	Routine - Unscheduled	83013_20170928_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Bayview Hunters Point Multi Senior Services	1753 Carroll Ave	San Francisco	CA	94124			+14155821444	87814_20160527	2017-05-27		New Construction			
+95059 Portables Say Hey Sausage	24 Willie Mays Pl Sec 114	San Francisco	CA	94107				95059_20180326	2017-03-26	100.0	Routine - Unscheduled			
+House of Banquet	939 Clement St	San Francisco	CA	94118	37.782663	-122.469359	+14155780203	65050_20160608	2017-06-08		Complaint	65050_20160608_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Kama Sushi Soma	294 09th St	San Francisco	CA	94103	37.774722	-122.406761		68672_20150408	2017-04-08		Reinspection/Followup			
+Love Healthy Foods	244 Clement St	San Francisco	CA	94118				83087_20150809	2017-08-09	100.0	Routine - Unscheduled			
+L & G Vietnamese Sandwich	602 Eddy St	San Francisco	CA	94109			+14155886402	80591_20170109	2017-01-09	66.0	Routine - Unscheduled	80591_20170109_103114	High risk vermin infestation	High Risk
+Las Palmeras	2721 Mission St	San Francisco	CA	94110	37.753463	-122.418536		18047_20170126	2017-01-26	72.0	Routine - Unscheduled	18047_20170126_103139	Improper food storage	Low Risk
+Panchitas Restaurant	3091 16th St	San Francisco	CA	94103	37.764903	-122.42159004079		19003_20170802	2017-08-02		Reinspection/Followup			
+Pizzelle Di North Beach	314 Columbus Ave	San Francisco	CA	94133	37.798065	-122.406855		39693_20160518	2017-05-18	86.0	Routine - Unscheduled	39693_20160518_103131	Moderate risk vermin infestation	Moderate Risk
+Tycoon Cafe & Restaurant	620 O'Farrell St	San Francisco	CA	94109				81894_20160201	2017-02-01	77.0	Routine - Unscheduled	81894_20160201_103133	Foods not protected from contamination	Moderate Risk
+Mee Mee Bakery	1328 Stockton St	San Francisco	CA	94133	37.797935	-122.408581		7856_20161207	2017-12-07	84.0	Routine - Unscheduled	7856_20161207_103131	Moderate risk vermin infestation	Moderate Risk
+PPQ Beef Noodle House	1816 IRVING St	San Francisco	CA	94122	37.763603	-122.477497		38808_20160331	2017-03-31		Reinspection/Followup			
+NEW WING HING SEAFOOD MARKET	2222 CLEMENT St	San Francisco	CA	94121	37.782118	-122.483191		7537_20170509	2017-05-09	83.0	Routine - Unscheduled	7537_20170509_103109	Unclean or unsanitary food contact surfaces	High Risk
+The Salvation Army	240 Turk St	San Francisco	CA	94102	37.782938	-122.413133		37732_20160907	2017-09-07		Reinspection/Followup			
+Marina Theatre	2149 Chestnut St	San Francisco	CA	94123	37.800483	-122.438567		36523_20160329	2017-03-29	85.0	Routine - Unscheduled	36523_20160329_103129	Insufficient hot water or running water	Moderate Risk
+Cafe Creme de Hayes Valley	50 Oak St  Basement	San Francisco	CA	94102	37.775379	-122.420136		69595_20170428	2017-04-28	87.0	Routine - Unscheduled	69595_20170428_103104	Unauthorized or unsafe use of time as a public health control measure	High Risk
+Yangtze Meat & Fish Market	4599 Mission St	San Francisco	CA	94112				89069_20161202	2017-12-02	83.0	Routine - Unscheduled	89069_20161202_103109	Unclean or unsanitary food contact surfaces	High Risk
+Cabin	1750 Polk St	San Francisco	CA	94109				76408_20170127	2017-01-27	100.0	Routine - Unscheduled			
+Chile Lindo	2944 16th St	San Francisco	CA	94103	37.765155	-122.418766		62010_20160415	2017-04-15	96.0	Routine - Unscheduled	62010_20160415_103121	Inadequate procedures or records for time as a public health control	Moderate Risk
+Sam's Grill	374 Bush St	San Francisco	CA	94104	37.790858	-122.403553		3116_20160916	2017-09-16		Reinspection/Followup			
+Murphy's	217 Kearny St	San Francisco	CA	94108	37.790125	-122.403924		1832_20150819	2017-08-19	78.0	Routine - Unscheduled	1832_20150819_103109	Unclean or unsanitary food contact surfaces	High Risk
+Yucatasia Deli & Sandwich	2164 Mission St	San Francisco	CA	94110	37.762366	-122.419491		18514_20161018	2017-10-18	79.0	Routine - Unscheduled	18514_20161018_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Hongry Kong	1975 Bryant	San Francisco	CA					69863_20180306	2017-03-06		New Construction	69863_20180306_103156	Permit license or inspection report not posted	Low Risk
+Lai Hong Lounge	1416 Powell St	San Francisco	CA	94133	37.797596	-122.410207		69205_20150513	2017-05-13	71.0	Routine - Unscheduled	69205_20150513_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+MANN MIDDLE SCHOOL	3351 23rd St	San Francisco	CA	94110	37.753704	-122.420198	+14155695881	5811_20160425	2017-04-25	100.0	Routine - Unscheduled			
+T & T Cafe	601 Broadway St	San Francisco	CA	94133				87761_20160616	2017-06-16	86.0	Routine - Unscheduled	87761_20160616_103150	Improper or defective plumbing	Low Risk
+The Organic Coup	224 Kearny St	San Francisco	CA	94108				88708_20180130	2017-01-30	100.0	Routine - Unscheduled			
+Mi Tierra Market	2023 MISSION St	San Francisco	CA	94110	37.764665	-122.419558		66961_20160311	2017-03-11	63.0	Routine - Unscheduled	66961_20160311_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+BIG MOUTH BURGERS	3392 24th St	San Francisco	CA	94110	37.752158	-122.420362		1002_20150422	2017-04-22		Reinspection/Followup			
+Cherry Blossom Bakery	844 Clement St	San Francisco	CA	94118	37.782778	-122.468341		39810_20160308	2017-03-08	77.0	Routine - Unscheduled	39810_20160308_103139	Improper food storage	Low Risk
+The Plant Cafe	3352 STEINER ST	San Francisco	CA	94123	37.800407	-122.437796		29429_20160706	2017-07-06	80.0	Routine - Unscheduled	29429_20160706_103105	Improper cooling methods	High Risk
+LA PAZ RESTAURANT	1028 POTRERO Ave	San Francisco	CA	94110	37.755693	-122.40665		2334_20160105	2017-01-05	90.0	Routine - Unscheduled	2334_20160105_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+The Myriad	2175 Market St	San Francisco	CA	94114			+14155644318	86164_20160303	2017-03-03		New Construction			
+Lou's Fish Shack	300 Jefferson St	San Francisco	CA	94133				2934_20160808	2017-08-08		Reinspection/Followup			
+Champa Garden	613 Faxon Ave	San Francisco	CA	94112			+14155344186	75402_20160504	2017-05-04	82.0	Routine - Unscheduled	75402_20160504_103148	No thermometers or uncalibrated thermometers	Low Risk
+Pizzetta 211	211 23rd Ave	San Francisco	CA	94121	37.783758	-122.482885		40217_20170324	2017-03-24	83.0	Routine - Unscheduled	40217_20170324_103120	Moderate risk food holding temperature	Moderate Risk
+Farmer Brown	25 Mason Street	San Francisco	CA	94102	37.783657	-122.409227		19277_20160930	2017-09-30	90.0	Routine - Unscheduled	19277_20160930_103145	Improper storage of equipment utensils or linens	Low Risk
+Ming Kee Restaurant	1548 Ocean Ave	San Francisco	CA	94112			+14155338198	77484_20170228	2017-02-28	89.0	Routine - Unscheduled	77484_20170228_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+2227 Irving Seafood Market Inc	2227 Irving St	San Francisco	CA	94122			+14155215212	83808_20161102	2017-11-02		Complaint			
+New Casa Maria Produce Market #2	58 LELAND Ave	San Francisco	CA	94134	37.711726	-122.404928		69317_20170926	2017-09-26	86.0	Routine - Unscheduled	69317_20170926_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Shabuway, Men-Oh	5120 GEARY Blvd	San Francisco	CA	94118	37.780674	-122.474243		68808_20171023	2017-10-23		Complaint Reinspection/Followup			
+Wicked Grounds	289 08th St	San Francisco	CA	94103				78668_20170314	2017-03-14	94.0	Routine - Unscheduled	78668_20170314_103154	Unclean or degraded floors walls or ceilings	Low Risk
+SAN FRANCISCO MUSEUM OF MODERN ART	151 03rd St	San Francisco	CA	94103	37.785643	-122.401192		5268_20180124	2017-01-24		Non-inspection site visit	5268_20180124_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Peet's Coffee & Tea	1400 Mission St Suite 130	San Francisco	CA	94103			+14150868663	86781_20170316	2017-03-16	98.0	Routine - Unscheduled	86781_20170316_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Dum	Off The Grid	San Francisco	CA					78337_20160601	2017-06-01		Reinspection/Followup			
+7 Eleven #2366-35663H	690 Market St	San Francisco	CA	94104				93856_20180306	2017-03-06		New Ownership	93856_20180306_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+Cala Restaurant	149 Fell St	San Francisco	CA	94102				83998_20150901	2017-09-01		New Construction			
+Basa Seafood Express	3064 24th St	San Francisco	CA	94110	37.752578	-122.413372		59397_20160630	2017-06-30	69.0	Routine - Unscheduled	59397_20160630_103139	Improper food storage	Low Risk
+Sushi Avenue Inc	1515 Sloat Blvd	San Francisco	CA	94132			+14151297000	68974_20170601	2017-06-01		Reinspection/Followup			
+Guckenheimer/Blue Shield of CA	50 Beale St 23rd Floor	San Francisco	CA	94105				74508_20170721	2017-07-21	74.0	Routine - Unscheduled	74508_20170721_103115	Other high risk violation	High Risk
+Rabbit Hole Cafe	160 14th St.	San Francisco	CA	94103				88429_20170703	2017-07-03		New Ownership			
+New Bosworth Market	145 Bosworth	San Francisco	CA	94112	37.733466	-122.428086		17779_20161103	2017-11-03	90.0	Routine - Unscheduled	17779_20161103_103177	Non service animal	Low Risk
+Reina's Restaurant	5479 Mission St	San Francisco	CA	94112				90603_20170214	2017-02-14		New Ownership			
+Crdova Market	301 ROLPH St	San Francisco	CA	94112	37.713426	-122.436347		65350_20170310	2017-03-10		Reinspection/Followup			
+Alexander's Steakhouse	448 BRANNAN St	San Francisco	CA	94107	37.779153	-122.395569		63191_20180312	2017-03-12	84.0	Routine - Unscheduled	63191_20180312_103120	Moderate risk food holding temperature	Moderate Risk
+Kama Sushi Soma	294 09th St	San Francisco	CA	94103	37.774722	-122.406761		68672_20150407	2017-04-07	64.0	Routine - Unscheduled	68672_20150407_103109	Unclean or unsanitary food contact surfaces	High Risk
+The Battery - Main Kitchen	717 Battery St 1st Floor	San Francisco	CA	94111				75258_20161025	2017-10-25	91.0	Routine - Unscheduled	75258_20161025_103109	Unclean or unsanitary food contact surfaces	High Risk
+Chantal Guillon	1309 Howard St	San Francisco	CA	94103				78669_20160824	2017-08-24	92.0	Routine - Unscheduled	78669_20160824_103139	Improper food storage	Low Risk
+Mediterrean Food	3848 Judah St	San Francisco	CA	94122	37.760598	-122.503259		65695_20151030	2017-10-30	84.0	Routine - Unscheduled	65695_20151030_103157	Food safety certificate or food handler card not available	Low Risk
+LOS HERMANOS	2026 CHESTNUT St	San Francisco	CA	94123	37.800767	-122.436924		268_20150903	2017-09-03	94.0	Routine - Unscheduled	268_20150903_103133	Foods not protected from contamination	Moderate Risk
+Tenroku Ramen	3251 20th Ave 250c	San Francisco	CA	94132				93234_20171028	2017-10-28		New Ownership - Followup			
+JIM'S RESTAURANT	2420 MISSION St	San Francisco	CA	94110	37.758271	-122.419081	+14155286020	3621_20150729	2017-07-29		Complaint			
+Sweet Maple Coffee Shop	2101 Sutter St	San Francisco	CA	94115	37.785833	-122.434938		64021_20150625	2017-06-25		Reinspection/Followup			
+TARTINE BAKERY	0600 GUERRERO St	San Francisco	CA	94110	37.761531	-122.423862	+14155482600	3615_20170802	2017-08-02	89.0	Routine - Unscheduled	3615_20170802_103103	High risk food holding temperature	High Risk
+Five Sweets	1125 Ocean Ave 102	San Francisco	CA	94112			+14155683731	82105_20170511	2017-05-11		Reinspection/Followup	82105_20170511_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Bulka Bakery	1727 Haight St	San Francisco	CA	94117				85852_20160323	2017-03-23		Reinspection/Followup	85852_20160323_103157	Food safety certificate or food handler card not available	Low Risk
+Angel's Market	1649 Castro St	San Francisco	CA	94114	37.748214	-122.433746	+14155648309	4978_20160307	2017-03-07	92.0	Routine - Unscheduled	4978_20160307_103157	Food safety certificate or food handler card not available	Low Risk
+Yummy Sticks	428 11th St	San Francisco	CA	94103				85908_20160618	2017-06-18	81.0	Routine - Unscheduled	85908_20160618_103120	Moderate risk food holding temperature	Moderate Risk
+Yummy BBQ Kitchen	683 Broadway St	San Francisco	CA	94133	37.797663	-122.408377		59515_20150512	2017-05-12		Non-inspection site visit			
+Olympic Flame Cafe	553 Geary St	San Francisco	CA	94102	37.786803	-122.412467		2104_20160222	2017-02-22		Reinspection/Followup			
+Bebebar Juice & Sandwich	3809 18th St	San Francisco	CA	94114			+14155208406	76574_20161109	2017-11-09	100.0	Routine - Unscheduled			
+YANK SING RESTAURANT	101 SPEAR St A-16	San Francisco	CA	94105	37.792577	-122.393992		3090_20150625	2017-06-25		Reinspection/Followup			
+707 Sutter	707 Sutter St	San Francisco	CA	94109				87285_20161128	2017-11-28	82.0	Routine - Unscheduled	87285_20161128_103142	Unclean nonfood contact surfaces	Low Risk
+Vinyl Cafe and Wine Bar	359 DIVISADERO St	San Francisco	CA	94117	37.77282580854	-122.437414		68130_20151008	2017-10-08	83.0	Routine - Unscheduled	68130_20151008_103142	Unclean nonfood contact surfaces	Low Risk
+Hashiri	4 Mint Plaza	San Francisco	CA	94103				84770_20170830	2017-08-30	96.0	Routine - Unscheduled	84770_20170830_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+NEW CASTILLITO INC.	2092 MISSION St	San Francisco	CA	94110	37.76356	-122.419582	+14155626971	2447_20151228	2017-12-28	100.0	Routine - Unscheduled			
+5 Degree Tea House	2527 SAN BRUNO Ave	San Francisco	CA	94134	37.729753	-122.40447	+14155828233	70685_20171212	2017-12-12	86.0	Routine - Unscheduled	70685_20171212_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Thrive Juicery	101 Spear St	San Francisco	CA	94105				88556_20161111	2017-11-11	78.0	Routine - Unscheduled	88556_20161111_103102	Unclean hands or improper use of gloves	High Risk
+Kentucky Fried Chicken	200 Duboce St	San Francisco	CA	94103	37.769758	-122.424782	+14155431613	5150_20170918	2017-09-18	86.0	Routine - Unscheduled	5150_20170918_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Hole in the Wall Pizza	3244 Scott St	San Francisco	CA	94123	37.799664	-122.441015		33247_20160316	2017-03-16	98.0	Routine - Unscheduled	33247_20160316_103145	Improper storage of equipment utensils or linens	Low Risk
+CASA LUCAS #3	4555 MISSION St	San Francisco	CA	94112	37.725432	-122.434216		7243_20171128	2017-11-28	82.0	Routine - Unscheduled	7243_20171128_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+New Heng Fung Inc	2444 Noriega St	San Francisco	CA	94122			+14155740221	85925_20171114	2017-11-14	79.0	Routine - Unscheduled	85925_20171114_103103	High risk food holding temperature	High Risk
+Ghirardelli Chocolate - Main Concourse Level	24 Willie Mays Plaza	San Francisco	CA	94107				69135_20150419	2017-04-19		Routine - Scheduled	69135_20150419_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Dol-Ho Restaurant	808 Pacific Ave	San Francisco	CA	94133	37.796718	-122.408714		489_20161220	2017-12-20	80.0	Routine - Unscheduled	489_20161220_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Kwik & Convenient	600 Monterey Blvd	San Francisco	CA	94127			+14155334140	72153_20160809	2017-08-09	94.0	Routine - Unscheduled	72153_20160809_103154	Unclean or degraded floors walls or ceilings	Low Risk
+SOTA (SCHOOL OF THE ARTS)	555 Portola Dr	San Francisco	CA	94131	37.745674	-122.45085	+14155695700	5855_20161102	2017-11-02	88.0	Routine - Unscheduled	5855_20161102_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Choux	248 Fillmore St	San Francisco	CA	94117				94189_20171130	2017-11-30	96.0	Routine - Unscheduled	94189_20171130_103129	Insufficient hot water or running water	Moderate Risk
+Sunrise Deli	2115 Irving St	San Francisco	CA	94122	37.763383	-122.48075		1930_20161019	2017-10-19	83.0	Routine - Unscheduled	1930_20161019_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+City View Restaurant	662 Commercial St	San Francisco	CA	94111	37.794127	-122.404074		3510_20161109	2017-11-09	68.0	Routine - Unscheduled	3510_20161109_103150	Improper or defective plumbing	Low Risk
+Ming Kee Restaurant	1548 Ocean Ave	San Francisco	CA	94112			+14155338198	77484_20160329	2017-03-29	88.0	Routine - Unscheduled	77484_20160329_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Sabor De San Miguel	3263 MISSION St	San Francisco	CA	94110	37.744726	-122.420395	+14155645866	1337_20171030	2017-10-30	85.0	Routine - Unscheduled	1337_20171030_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Sunny Wheatfield Café Inc	2305 Irving St	San Francisco	CA	94122			+14155681988	86814_20171031	2017-10-31	92.0	Routine - Unscheduled	86814_20171031_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Joyful Kitchen	1919 Ocean Ave	San Francisco	CA	94127			+14155331919	88340_20160811	2017-08-11	84.0	Routine - Unscheduled	88340_20160811_103120	Moderate risk food holding temperature	Moderate Risk
+MOULIN ROUGE	887 GEARY St	San Francisco	CA	94109	37.786084	-122.417889		302_20150408	2017-04-08	69.0	Routine - Unscheduled	302_20150408_103109	Unclean or unsanitary food contact surfaces	High Risk
+The Salvation Army	1156 Valencia St	San Francisco	CA	94110	37.754397	-122.420915	+14155640260	5999_20170109	2017-01-09	94.0	Routine - Unscheduled	5999_20170109_103120	Moderate risk food holding temperature	Moderate Risk
+Zeitgeist	199 VALENCIA St	San Francisco	CA	94110			+14155436891	68799_20170719	2017-07-19	80.0	Routine - Unscheduled	68799_20170719_103142	Unclean nonfood contact surfaces	Low Risk
+Bon Appetit @ USF-Market Cafe	2130 FULTON St	San Francisco	CA	94117	37.775117	-122.452065		2907_20180103	2017-01-03		Complaint			
+ROYAL GROUND COFFEE	5301 GEARY Blvd	San Francisco	CA	94121	37.780394	-122.47641		1204_20171222	2017-12-22		New Construction			
+Elephant Sushi 3	705 Geary St	San Francisco	CA	94109				77761_20171025	2017-10-25	85.0	Routine - Unscheduled	77761_20171025_103133	Foods not protected from contamination	Moderate Risk
+Lil'Darlings	312 Columbus Ave	San Francisco	CA	94133	37.798065	-122.406855		63248_20160520	2017-05-20	100.0	Routine - Unscheduled			
+Diane Feinstein Elementary School	2550 25th Ave	San Francisco	CA	94116	37.739643	-122.481876		65893_20180321	2017-03-21	100.0	Routine - Unscheduled			
+Vanda Siam Restaurant	668 Sacramento St	San Francisco	CA	94111	37.79373	-122.403974		68826_20160204	2017-02-04		Reinspection/Followup	68826_20160204_103157	Food safety certificate or food handler card not available	Low Risk
+RINCONSITO SALVADORENO	3829 MISSION St	San Francisco	CA	94110	37.73571	-122.424528		384_20170501	2017-05-01	76.0	Routine - Unscheduled	384_20170501_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+Cones N Cakes Mocha Chaca	4482 Mission St	San Francisco	CA	94112			+14155651598	78452_20171114	2017-11-14	78.0	Routine - Unscheduled	78452_20171114_103105	Improper cooling methods	High Risk
+MANIVANH THAI RESTAURANT	2732 24th St	San Francisco	CA	94110	37.752968	-122.407062		2418_20150420	2017-04-20	82.0	Routine - Unscheduled	2418_20150420_103145	Improper storage of equipment utensils or linens	Low Risk
+R & G Executive Lounge, Inc	631 Kearny St	San Francisco	CA	94108	37.794154	-122.404765		3016_20180103	2017-01-03		Reinspection/Followup			
+Blue Barn Gourmet	2105 Chestnut St	San Francisco	CA	94123	37.800536	-122.43797		36023_20171228	2017-12-28	92.0	Routine - Unscheduled	36023_20171228_103131	Moderate risk vermin infestation	Moderate Risk
+CLADDAGH COFFEE	951 Geneva Ave	San Francisco	CA	94112	37.715997	-122.440048		1608_20161209	2017-12-09	94.0	Routine - Unscheduled	1608_20161209_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+El Chico Produce Market #2	4600 Mission St	San Francisco	CA	94112	37.724489	-122.435026	+41155586025	7216_20150817	2017-08-17	81.0	Routine - Unscheduled	7216_20150817_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Jane	925 Larkin St	San Francisco	CA	94109				76685_20171208	2017-12-08	86.0	Routine - Unscheduled	76685_20171208_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+CAFE X + O	1799 Church St	San Francisco	CA	94131	37.742325	-122.426476	+14155823535	56_20160802	2017-08-02	90.0	Routine - Unscheduled	56_20160802_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Boxed Foods Company	245 Kearny St	San Francisco	CA	94108	37.790453	-122.403994		10625_20170927	2017-09-27	79.0	Routine - Unscheduled	10625_20170927_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Baysubway 04	550 Gene Friends Way	San Francisco	CA		37.769544	-122.390422		65377_20150709	2017-07-09	93.0	Routine - Unscheduled	65377_20150709_103109	Unclean or unsanitary food contact surfaces	High Risk
+VALENCIA FARMER'S MARKET	1299 VALENCIA St	San Francisco	CA	94110	37.752162	-122.420585	+14155286863	7087_20170817	2017-08-17	90.0	Routine - Unscheduled	7087_20170817_103161	Low risk vermin infestation	Low Risk
+Fishbowl	1854 DIVISADERO St	San Francisco	CA	94115	37.786887	-122.440156		58718_20160801	2017-08-01		Reinspection/Followup			
+Fox Market	570 LARKIN St	San Francisco	CA	94102	37.783036	-122.417396		68774_20180103	2017-01-03	96.0	Routine - Unscheduled	68774_20180103_103142	Unclean nonfood contact surfaces	Low Risk
+GM Market Inc.	958 Geneva Ave	San Francisco	CA	94112	37.715948	-122.44015		69026_20160607	2017-06-07	92.0	Routine - Unscheduled	69026_20160607_103118	Employee eating or smoking	Moderate Risk
+The Monk's Kettle	3141 16TH St	San Francisco	CA	94103	37.764814	-122.422979	+14155869523	35591_20180109	2017-01-09	87.0	Routine - Unscheduled	35591_20180109_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+GARDEN CT. RESTAURANT & BAR	2 NEW MONTGOMERY St	San Francisco	CA	94105	37.788286	-122.401543		3405_20160916	2017-09-16		Reinspection/Followup			
+My Tofu House	4627 Geary Blvd	San Francisco	CA	94118			+14155751818	83148_20150518	2017-05-18	100.0	Routine - Unscheduled			
+Split Bread	2300 Polk St	San Francisco	CA	94109				88500_20180103	2017-01-03	90.0	Routine - Unscheduled	88500_20180103_103139	Improper food storage	Low Risk
+Loving Cup	2201 Union St	San Francisco	CA	94123			+14153226910	92476_20170803	2017-08-03		New Ownership			
+Harvest Urban Market	191 08th St	San Francisco	CA	94103	37.776384	-122.411684	+14155620805	10332_20160923	2017-09-23		Reinspection/Followup			
+Wise Sons Delicatessen	537 Octavia St	San Francisco	CA	94102				93022_20171010	2017-10-10		New Ownership			
+Huli Huli Hawaiian Grill	4100 03rd St	San Francisco	CA	94124				79520_20161012	2017-10-12	86.0	Routine - Unscheduled	79520_20161012_103157	Food safety certificate or food handler card not available	Low Risk
+Ayola	327 Kearny St	San Francisco	CA	94108	37.791185	-122.404144		34458_20150715	2017-07-15	96.0	Routine - Unscheduled	34458_20150715_103161	Low risk vermin infestation	Low Risk
+Capital Restaurant	839 Clay	San Francisco	CA					76784_20150807	2017-08-07	84.0	Routine - Unscheduled	76784_20150807_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Live Sushi Bistro	1 Gilbert St	San Francisco	CA	94103	37.774759	-122.404133		62632_20170111	2017-01-11	84.0	Routine - Unscheduled	62632_20170111_103131	Moderate risk vermin infestation	Moderate Risk
+Mehfil Indian Restaurant	28 02nd St	San Francisco	CA	94105				69199_20170127	2017-01-27	53.0	Routine - Unscheduled	69199_20170127_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+S & T Hong Kong Seafood	2588 Noriega St	San Francisco	CA	94122	37.753608	-122.491313		24572_20160426	2017-04-26	74.0	Routine - Unscheduled	24572_20160426_103102	Unclean hands or improper use of gloves	High Risk
+Victor's Pizza	1411 Polk St	San Francisco	CA	94109	37.789944	-122.420595		3031_20180206	2017-02-06		Reinspection/Followup			
+Fat Angel	1740 O' Farrell St	San Francisco	CA	94115	37.783237	-122.433243		61073_20170222	2017-02-22	80.0	Routine - Unscheduled	61073_20170222_103107	Improper reheating of food	High Risk
+JUMP START COFFEE & GROCERY	1192 GUERRERO St	San Francisco	CA	94110	37.752118	-122.422914	+14155647555	4874_20180306	2017-03-06	86.0	Routine - Unscheduled	4874_20180306_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+New Sun Hong Kong Restaurant	606 Broadway St	San Francisco	CA	94133	37.797868	-122.407194		2945_20150921	2017-09-21		Complaint	2945_20150921_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Pho Delicious	1365 Stockton St	San Francisco	CA	94133				86765_20161220	2017-12-20	79.0	Routine - Unscheduled	86765_20161220_103154	Unclean or degraded floors walls or ceilings	Low Risk
+HWA LEI MARKET	2970 A 16th St	San Francisco	CA	94103	37.774722	-122.406761	+14155861618	6564_20160729	2017-07-29	75.0	Routine - Unscheduled	6564_20160729_103138	Improper storage use or identification of toxic substances	Low Risk
+Red Victorian	1665 Haight St	San Francisco	CA	94117			+14152363967	80194_20170210	2017-02-10		Reinspection/Followup			
+Subway #68745	170 O'Farrell St #428	San Francisco	CA	94102				93072_20170915	2017-09-15		New Construction			
+Kama Sushi	1497 CHURCH St	San Francisco	CA	94131	37.746962	-122.426905		66612_20160310	2017-03-10	92.0	Routine - Unscheduled	66612_20160310_103120	Moderate risk food holding temperature	Moderate Risk
+Verve Coffee Roasters	2101 Market St	San Francisco	CA	94114			+14151468141	86653_20180119	2017-01-19		Complaint			
+Capo's	641 Vallejo St	San Francisco	CA	94133				68321_20160407	2017-04-07	77.0	Routine - Unscheduled	68321_20160407_103159	Worker safety hazards	Low Risk
+Tung Sing Restaurant	4015 24th St	San Francisco	CA	94114	37.751373	-122.432319	+14155648582	1609_20160328	2017-03-28	83.0	Routine - Unscheduled	1609_20160328_103103	High risk food holding temperature	High Risk
+Jack In The Box #556	366 Bayshore Blvd	San Francisco	CA	94124	37.741597	-122.406398		37658_20171106	2017-11-06	89.0	Routine - Unscheduled	37658_20171106_103139	Improper food storage	Low Risk
+Urban Remedy	1 Ferry Building	San Francisco	CA	94111				85898_20170127	2017-01-27	96.0	Routine - Unscheduled	85898_20170127_103156	Permit license or inspection report not posted	Low Risk
+Tsing Tao #2	1117 Fillmore St	San Francisco	CA	94115				76886_20160415	2017-04-15		Reinspection/Followup			
+Fish N Gari	1718 Polk St	San Francisco	CA	94109	37.792577	-122.421016		69759_20180305	2017-03-05	75.0	Routine - Unscheduled	69759_20180305_103142	Unclean nonfood contact surfaces	Low Risk
+Soul Bowl'z	103 Horn Ave	San Francisco	CA	94124			+14155416228	93305_20171208	2017-12-08		New Ownership			
+STARBUCKS COFFEE	1298 HOWARD St	San Francisco	CA	94103	37.775314	-122.412819	+14155567385	4425_20160504	2017-05-04	94.0	Routine - Unscheduled	4425_20160504_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Lai Hong Lounge	1416 Powell St	San Francisco	CA	94133	37.797596	-122.410207		69205_20150513	2017-05-13	71.0	Routine - Unscheduled	69205_20150513_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Tak Kee Lee Restaurant	2435 Noriega St	San Francisco	CA	94122	37.753623	-122.489929		10990_20160531	2017-05-31	81.0	Routine - Unscheduled	10990_20160531_103120	Moderate risk food holding temperature	Moderate Risk
+Pine & Taylor Market	996 Pine St	San Francisco	CA	94108				90808_20170418	2017-04-18		Routine - Unscheduled	90808_20170418_103152	Unclean unmaintained or improperly constructed toilet facilities	Low Risk
+La Taqueria Guadalajara	3146 24th St	San Francisco	CA	94110	37.752512	-122.415109	+14155644892	32671_20160629	2017-06-29	84.0	Routine - Unscheduled	32671_20160629_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Bashfull Bull Too	3600 Taraval St	San Francisco	CA	94116			+14155758112	81887_20171102	2017-11-02	86.0	Routine - Unscheduled	81887_20171102_103131	Moderate risk vermin infestation	Moderate Risk
+MARTHA & BROS COFFEE CO	745 CORTLAND Ave	San Francisco	CA	94110	37.738927	-122.414757	+14155647779	2632_20160219	2017-02-19	88.0	Routine - Unscheduled	2632_20160219_103141	Improper food labeling or menu misrepresentation	Low Risk
+Sushi Bistro	431 Balboa St	San Francisco	CA	94118			+14155937100	75637_20160829	2017-08-29	89.0	Routine - Unscheduled	75637_20160829_103114	High risk vermin infestation	High Risk
+Pier 23 Cafe Inc	Pier 23	San Francisco	CA	94111	37.802673	-122.400867		33747_20170221	2017-02-21	89.0	Routine - Unscheduled	33747_20170221_103125	Noncompliance with shell fish tags or display	Moderate Risk
+PACIFIC CAFE	7000 GEARY Blvd	San Francisco	CA	94121	37.779668	-122.494562		2282_20170920	2017-09-20	90.0	Routine - Unscheduled	2282_20170920_103120	Moderate risk food holding temperature	Moderate Risk
+Homeskillet	1001 Market St	San Francisco	CA	94102				78662_20160913	2017-09-13	76.0	Routine - Unscheduled	78662_20160913_103109	Unclean or unsanitary food contact surfaces	High Risk
+S & T Hong Kong Seafood	2588 Noriega St	San Francisco	CA	94122	37.753608	-122.491313		24572_20171004	2017-10-04	72.0	Routine - Unscheduled	24572_20171004_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Yuyu Sushi	1559 A Sloat St	San Francisco	CA	94132	37.733901	-122.490726	+14155666477	14005_20171205	2017-12-05	90.0	Routine - Unscheduled	14005_20171205_103120	Moderate risk food holding temperature	Moderate Risk
+Gourmet Carousel	1559 FRANKLIN St	San Francisco	CA	94109	37.789073	-122.423784		68160_20170510	2017-05-10	68.0	Routine - Unscheduled	68160_20170510_103132	Improper thawing methods	Moderate Risk
+GRAND LODGE OF CALIFORNIA	5051 MISSION St	San Francisco	CA	94112	37.717659	-122.44005		3476_20170307	2017-03-07	88.0	Routine - Unscheduled	3476_20170307_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+PASITA'S BAKERY	10 PERSIA Ave	San Francisco	CA	94112	37.723086	-122.435983		7759_20180322	2017-03-22	92.0	Routine - Unscheduled	7759_20180322_103150	Improper or defective plumbing	Low Risk
+Kaiju Eats Inc	3409 Geary Blvd	San Francisco	CA	94118			+14155744309	84656_20150929	2017-09-29	67.0	Routine - Unscheduled	84656_20150929_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Trader Joe's #225	10 4th St.	San Francisco	CA	94103				90273_20170208	2017-02-08		New Construction			
+The Brixton	2140 UNION St	San Francisco	CA	94123	37.797238	-122.434533	+14155401114	65057_20160603	2017-06-03	86.0	Routine - Unscheduled	65057_20160603_103152	Unclean unmaintained or improperly constructed toilet facilities	Low Risk
+GreenSurge	2301 Market St	San Francisco	CA	94114			+14155814131	77566_20180223	2017-02-23	90.0	Routine - Unscheduled	77566_20180223_103177	Non service animal	Low Risk
+Osha Thai Noodle Cafe	696 Geary St	San Francisco	CA	94102	37.786598	-122.414583		1741_20160520	2017-05-20	92.0	Routine - Unscheduled	1741_20160520_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Eli's Hot Dogs	101 Bayshore Blvd	San Francisco	CA	94014			+14155831168	74674_20150818	2017-08-18	60.0	Routine - Unscheduled	74674_20150818_103102	Unclean hands or improper use of gloves	High Risk
+Starbucks Coffee Company	2163 Polk St	San Francisco	CA	94109	37.796527	-122.421953		2072_20161003	2017-10-03	87.0	Routine - Unscheduled	2072_20161003_103156	Permit license or inspection report not posted	Low Risk
+Birba	458 Grove St	San Francisco	CA	94102				81756_20160510	2017-05-10	90.0	Routine - Unscheduled	81756_20160510_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Bayshore Market Deli & Liquor	300 BAYSHORE Blvd	San Francisco	CA	94124	37.743065	-122.405284		68832_20150402	2017-04-02		Reinspection/Followup			
+Cafe Algiers & Deli	50 Beale St Suite 103	San Francisco	CA	94105				71034_20170105	2017-01-05	81.0	Routine - Unscheduled	71034_20170105_103133	Foods not protected from contamination	Moderate Risk
+Let's Be Frank	Justin Herman Plaza	San Francisco	CA		37.777122	-122.419639		63210_20170422	2017-04-22	89.0	Routine - Unscheduled	63210_20170422_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+AT&T - GHIRARDELLI CHOCOLATE CO. (VIEW LEVEL) [147802]	24 Willie Mays Pl	San Francisco	CA	94107				11488_20150419	2017-04-19	100.0	Routine - Unscheduled			
+NEW HING LUNG RESTAURANT	1556 NORIEGA St	San Francisco	CA	94122	37.754123	-122.48031		3693_20160323	2017-03-23		Reinspection/Followup			
+Hakka Restaurant	4401 A Cabrillo St Suite A	San Francisco	CA	94121			+14155876898	75139_20180301	2017-03-01		Complaint	75139_20180301_103138	Improper storage use or identification of toxic substances	Low Risk
+Golden Saigon Restaurant Corp.	2428 San Bruno Ave.	San Francisco	CA	94134				90941_20170505	2017-05-05		Reinspection/Followup			
+Montesacro	510 Stevenson St	San Francisco	CA					82538_20160531	2017-05-31		New Construction			
+Davids Tea	845 Market St #13	San Francisco	CA					70779_20170125	2017-01-25	96.0	Routine - Unscheduled	70779_20170125_103156	Permit license or inspection report not posted	Low Risk
+Soma Fresh Meat and Deli	1000 Howard St	San Francisco	CA	94103				68860_20160826	2017-08-26	86.0	Routine - Unscheduled	68860_20160826_103133	Foods not protected from contamination	Moderate Risk
+EL NORTENO	801 bryant St	San Francisco	CA	94103	37.776011	-122.402466	+14150208621	5297_20170101	2017-01-01	94.0	Routine - Unscheduled	5297_20170101_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Let's Eat	5130 03rd St	San Francisco	CA	94124	37.731831	-122.391862		65245_20150916	2017-09-16	94.0	Routine - Unscheduled	65245_20150916_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+KIM HOANG CAFE & FAST FOOD	246-250 LEAVENWORTH ST	San Francisco	CA	94102	37.783249	-122.414065		14577_20170410	2017-04-10	79.0	Routine - Unscheduled	14577_20170410_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Amphawa Thai Noodle House	5020 GEARY Blvd	San Francisco	CA	94122	37.780733	-122.473114		66229_20150330	2017-03-30	90.0	Routine - Unscheduled	66229_20150330_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Las Isletas	4508 03rd St	San Francisco	CA	94124	37.737021	-122.390043	+14155577698	19373_20170110	2017-01-10	63.0	Routine - Unscheduled	19373_20170110_103105	Improper cooling methods	High Risk
+IRVING PIZZA	1825 IRVING St	San Francisco	CA	94122	37.763513	-122.47764		950_20161214	2017-12-14	85.0	Routine - Unscheduled	950_20161214_103109	Unclean or unsanitary food contact surfaces	High Risk
+Sichuan Home Inc	5037 Geary St	San Francisco	CA	94118			+14155223288	88063_20160721	2017-07-21		New Construction	88063_20160721_103139	Improper food storage	Low Risk
+Hong Kong Bakery	4711 MISSION St	San Francisco	CA	94112	37.722898	-122.436086		38258_20150708	2017-07-08	77.0	Routine - Unscheduled	38258_20150708_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+PEKING RESTAURANT	1375 NORIEGA St	San Francisco	CA	94122	37.754086	-122.47835		3025_20160502	2017-05-02	81.0	Routine - Unscheduled	3025_20160502_103131	Moderate risk vermin infestation	Moderate Risk
+Dip, LLC	1318 Grant Ave	San Francisco	CA	94133				87364_20161110	2017-11-10		New Construction			
+WHITE PALACE LIQUOR & DELI	1524 SILVER Ave	San Francisco	CA	94134	37.732344	-122.405852		4806_20160701	2017-07-01	92.0	Routine - Unscheduled	4806_20160701_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+Happy Donuts	3801 24th St	San Francisco	CA	94114			+14155285890	77520_20171005	2017-10-05	86.0	Routine - Unscheduled	77520_20171005_103131	Moderate risk vermin infestation	Moderate Risk
+Hole in the Wall Pizza	3244 Scott St	San Francisco	CA	94123	37.799664	-122.441015		33247_20180131	2017-01-31	98.0	Routine - Unscheduled	33247_20180131_103152	Unclean unmaintained or improperly constructed toilet facilities	Low Risk
+LA ALTENA	3346 MISSION St	San Francisco	CA	94110	37.743206	-122.421546	+14155648415	3870_20151119	2017-11-19	81.0	Routine - Unscheduled	3870_20151119_103105	Improper cooling methods	High Risk
+Ambrosia Bakery	2605 Ocean Ave	San Francisco	CA	94132			+14155335305	86682_20170714	2017-07-14		Reinspection/Followup			
+ITHAI	720 Post St	San Francisco	CA	94109	37.787691	-122.413717		67564_20170804	2017-08-04	67.0	Routine - Unscheduled	67564_20170804_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Bite	912 Sutter St	San Francisco	CA	94109	37.788367	-122.415474		59599_20170831	2017-08-31	89.0	Routine - Unscheduled	59599_20170831_103133	Foods not protected from contamination	Moderate Risk
+Burgermeister	759 Columbus Ave	San Francisco	CA	94133	37.801696	-122.412257		11492_20170321	2017-03-21	90.0	Routine - Unscheduled	11492_20170321_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+LA LOMA PRODUCE #7	2695 San Bruno Ave	San Francisco	CA	94134	37.727739	-122.403579		4502_20170421	2017-04-21		Non-inspection site visit			
+MICHAELIS WINE & SPIRITS	2198 UNION St	San Francisco	CA	94123	37.797138	-122.435334	+14155925700	4716_20170925	2017-09-25	88.0	Routine - Unscheduled	4716_20170925_103161	Low risk vermin infestation	Low Risk
+Hollywood Food Center	6146 Geary Blvd	San Francisco	CA	94121	37.780148	-122.485532		34787_20160523	2017-05-23	94.0	Routine - Unscheduled	34787_20160523_103133	Foods not protected from contamination	Moderate Risk
+Mateo's Bay Area Hot Dogs	833 Bryant St	San Francisco	CA				+14155889291	39481_20150803	2017-08-03	79.0	Routine - Unscheduled	39481_20150803_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Carmelina's Taqueria	500 Parnassus Ave	San Francisco	CA	94143			+14155501121	81134_20151030	2017-10-30		Reinspection/Followup	81134_20151030_103133	Foods not protected from contamination	Moderate Risk
+ASIA SF LLC	201 09th St	San Francisco	CA	94103	37.775025	-122.413093	+14155256789	4335_20150513	2017-05-13		Reinspection/Followup			
+Um Ma Son	5850 GEARY BLVD	San Francisco	CA	94121	37.780278	-122.482311		17947_20171004	2017-10-04	81.0	Routine - Unscheduled	17947_20171004_103132	Improper thawing methods	Moderate Risk
+Tower Burger	729 PORTOLA Dr	San Francisco	CA	94127	37.744127	-122.453593		68159_20170913	2017-09-13	75.0	Routine - Unscheduled	68159_20170913_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+The Plant Cafe Organic	101 California St	San Francisco	CA	94111	37.793424	-122.398168		61499_20171018	2017-10-18	84.0	Routine - Unscheduled	61499_20171018_103131	Moderate risk vermin infestation	Moderate Risk
+ZUSHI-PUZZLE	1910 LOMBARD St	San Francisco	CA	94123	37.800248	-122.433053		2063_20171113	2017-11-13	74.0	Routine - Unscheduled	2063_20171113_103114	High risk vermin infestation	High Risk
+Mi Ranchito Produce	2169 Mission St	San Francisco	CA	94110	37.762344	-122.419386		38379_20160426	2017-04-26	94.0	Routine - Unscheduled	38379_20160426_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Maru Sushi	529 Powell St	San Francisco	CA	94102	37.789664	-122.408724		32736_20160727	2017-07-27	67.0	Routine - Unscheduled	32736_20160727_103138	Improper storage use or identification of toxic substances	Low Risk
+Bayshore Taqueria	300 Bayshore Blvd #A	San Francisco	CA	94124				79345_20170522	2017-05-22	88.0	Routine - Unscheduled	79345_20170522_103120	Moderate risk food holding temperature	Moderate Risk
+Cafe In	855 Bryant St	San Francisco	CA	94103				88087_20160818	2017-08-18		Structural Inspection			
+Pakwan Restaurant	3180 16th St	San Francisco	CA	94103			+14155252440	78698_20170110	2017-01-10	86.0	Routine - Unscheduled	78698_20170110_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Bella Lucca	418 Geary St	San Francisco	CA	94102	37.787128	-122.410365		28468_20160203	2017-02-03	79.0	Routine - Unscheduled	28468_20160203_103151	Inadequate or unsanitary refuse containers or area or no garbage service	Low Risk
+Uncle Vito's Pizza	700 Bush St	San Francisco	CA	94108	37.790219	-122.408849		1565_20150713	2017-07-13	89.0	Routine - Unscheduled	1565_20150713_103103	High risk food holding temperature	High Risk
+The AA Bakery & Cafe	1068 Stockton St	San Francisco	CA	94108	37.795564	-122.40809		2233_20160524	2017-05-24	85.0	Routine - Unscheduled	2233_20160524_103120	Moderate risk food holding temperature	Moderate Risk
+ST. PAULS SCHOOL	1690 Church St	San Francisco	CA	94131	37.74385	-122.426739	+14155642055	5180_20171031	2017-10-31		Non-inspection site visit			
+Dirty Water	1355 Market St	San Francisco	CA				+14150879960	81287_20170130	2017-01-30		Reinspection/Followup			
+The Ramp	855 Terry Francois Blvd	San Francisco	CA	94107			+14155597267	77185_20170511	2017-05-11		Non-inspection site visit			
+Taqueria El Farolito #10	358 Beach St	San Francisco	CA	94133				79961_20150825	2017-08-25	80.0	Routine - Unscheduled	79961_20150825_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Kim Thanh Restaurant	607 Geary St	San Francisco	CA	94102	37.786683	-122.413274		2107_20170517	2017-05-17	96.0	Routine - Unscheduled	2107_20170517_103133	Foods not protected from contamination	Moderate Risk
+THE CAKE HOUSE	5169 MISSION St	San Francisco	CA	94112	37.716039	-122.441289		4586_20160720	2017-07-20	92.0	Routine - Unscheduled	4586_20160720_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Park Central Hotel SF-Garde Manger	50 03rd St	San Francisco	CA	94103				82895_20150825	2017-08-25	85.0	Routine - Unscheduled	82895_20150825_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+El Calamar	Off The Grid	San Francisco	CA					70708_20160713	2017-07-13	79.0	Routine - Unscheduled	70708_20160713_103147	Inadequate ventilation or lighting	Low Risk
+Tsunami Mission Bay	301 King St	San Francisco	CA	94107	37.775777	-122.394423		40227_20161108	2017-11-08	87.0	Routine - Unscheduled	40227_20161108_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Le Meridien SF Main Kitchen/Employee Cafeteria	333 Battery St Level A & B	San Francisco	CA	94111	37.799005	-122.399862	+14155292904	65724_20151016	2017-10-16	100.0	Routine - Unscheduled			
+Nan king Road Bistro	1360 9th Ave	San Francisco	CA	94122			+14155752900	87492_20180222	2017-02-22	90.0	Routine - Unscheduled	87492_20180222_103156	Permit license or inspection report not posted	Low Risk
+Le Marais Bakery Castro	498 Sanchez St	San Francisco	CA	94114				90514_20170912	2017-09-12	87.0	Routine - Unscheduled	90514_20170912_103145	Improper storage of equipment utensils or linens	Low Risk
+CLAY THEATRE	2261 FILLMORE St	San Francisco	CA	94115	37.790494	-122.434174		6432_20160304	2017-03-04	94.0	Routine - Unscheduled	6432_20160304_103131	Moderate risk vermin infestation	Moderate Risk
+El Sur LLC #2	Off The Grid	San Francisco	CA					78699_20150617	2017-06-17		New Construction			
+Smashburger Store #1271	2300 16th St #293	San Francisco	CA	94103			+14155892410	85518_20180116	2017-01-16	93.0	Routine - Unscheduled	85518_20180116_103103	High risk food holding temperature	High Risk
+Specialty's Cafe & Bakery	369 Pine St	San Francisco	CA	94104	37.791953	-122.401998		39048_20160623	2017-06-23	86.0	Routine - Unscheduled	39048_20160623_103133	Foods not protected from contamination	Moderate Risk
+Zhong Shan Restaurant	2237 Taraval St	San Francisco	CA	94116			+14155598938	76035_20160411	2017-04-11	86.0	Routine - Unscheduled	76035_20160411_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Ferry Building Commissary	1 Ferry Building  #8A	San Francisco	CA	94111	37.795225	-122.39377		63489_20160419	2017-04-19	100.0	Routine - Unscheduled			
+Il Casaro Pizzeria Mozzarella Bar	348 Columbus Ave	San Francisco	CA	94133				75147_20160504	2017-05-04	89.0	Routine - Unscheduled	75147_20160504_103120	Moderate risk food holding temperature	Moderate Risk
+Ajisen Ramen	865 Market St #STC-12	San Francisco	CA	94103	37.784317	-122.407563		63757_20160304	2017-03-04	70.0	Routine - Unscheduled	63757_20160304_103105	Improper cooling methods	High Risk
+TWO JACKS SEAFOOD	401 HAIGHT St	San Francisco	CA	94117	37.772274	-122.428997	+14155436290	2384_20180109	2017-01-09		Reinspection/Followup	2384_20180109_103150	Improper or defective plumbing	Low Risk
+Nordstrom Expresso Bar	285 Winston Dr.	San Francisco	CA	94132	37.726895	-122.475861		9208_20170330	2017-03-30	94.0	Routine - Unscheduled	9208_20170330_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Starbucks	675 Townsend St	San Francisco	CA	94103	37.770517	-122.403221		19418_20150424	2017-04-24	100.0	Routine - Unscheduled			
+PRESIDIO GATE APARTMENTS	2770 LOMBARD St	San Francisco	CA	94123	37.798558	-122.446784	+14155561050	6001_20160429	2017-04-29	96.0	Routine - Unscheduled	6001_20160429_103138	Improper storage use or identification of toxic substances	Low Risk
+SF Deli and Wine	810 MISSION St	San Francisco	CA	94103	37.784193	-122.404699		71563_20160705	2017-07-05	94.0	Routine - Unscheduled	71563_20160705_103157	Food safety certificate or food handler card not available	Low Risk
+The Dorian	2001 Chestnut St	San Francisco	CA	94123				84619_20180221	2017-02-21	92.0	Routine - Unscheduled	84619_20180221_103131	Moderate risk vermin infestation	Moderate Risk
+Cole Valley Cafe	701 Cole St	San Francisco	CA	94117			+14155665282	75942_20150706	2017-07-06	85.0	Routine - Unscheduled	75942_20150706_103131	Moderate risk vermin infestation	Moderate Risk
+Tierra Mia Coffee Company	3188 Mission St	San Francisco	CA	94110				75055_20170515	2017-05-15	98.0	Routine - Unscheduled	75055_20170515_103142	Unclean nonfood contact surfaces	Low Risk
+Banwich	1105 TARAVAL St	San Francisco	CA	94116	37.742895	-122.477898		1241_20160523	2017-05-23	90.0	Routine - Unscheduled	1241_20160523_103154	Unclean or degraded floors walls or ceilings	Low Risk
+HIEP-THANH MARKET	724 LARKIN St	San Francisco	CA	94109	37.784598	-122.417757		6654_20160121	2017-01-21	70.0	Routine - Unscheduled	6654_20160121_103145	Improper storage of equipment utensils or linens	Low Risk
+Ora Schulman, LLC	103 Horne Ave.	San Francisco	CA	94124				92254_20170817	2017-08-17		New Ownership			
+Chinatown Restaurant	744 Washington St	San Francisco	CA	94108	37.795248	-122.405943		3676_20160816	2017-08-16	87.0	Routine - Unscheduled	3676_20160816_103161	Low risk vermin infestation	Low Risk
+Fish N Gari	1718 Polk St	San Francisco	CA	94109	37.792577	-122.421016		69759_20160708	2017-07-08	71.0	Routine - Unscheduled	69759_20160708_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Tempest	431 NATOMA St	San Francisco	CA	94103	37.781249	-122.406222		66255_20180212	2017-02-12	89.0	Routine - Unscheduled	66255_20180212_103102	Unclean hands or improper use of gloves	High Risk
+ESPERPENTO RESTAURANT	3295 22nd St	San Francisco	CA	94110	37.755303	-122.420649		1584_20170824	2017-08-24	77.0	Routine - Unscheduled	1584_20170824_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Cafe Bunn Mi	417 CLEMENT St	San Francisco	CA	94118	37.782953	-122.4637		66361_20180207	2017-02-07	81.0	Routine - Unscheduled	66361_20180207_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Zaytoon	607 Divisadero St	San Francisco	CA	94117			+14150871945	84456_20160426	2017-04-26		Structural Inspection			
+Beso Bistronomia	4058 A 18th St	San Francisco	CA	94114			+14155556200	78278_20150824	2017-08-24	93.0	Routine - Unscheduled	78278_20150824_103109	Unclean or unsanitary food contact surfaces	High Risk
+TYGER'S	2798 DIAMOND St	San Francisco	CA	94131	37.734579	-122.4339	+14155234064	2692_20160923	2017-09-23		Reinspection/Followup	2692_20160923_103103	High risk food holding temperature	High Risk
+Hana Zen Sushi  Yakitori Bar	Pier 39  Space M209	San Francisco	CA	94133	37.80824	-122.410189		63755_20160608	2017-06-08	70.0	Routine - Unscheduled	63755_20160608_103116	Inadequate food safety knowledge or lack of certified food safety manager	Moderate Risk
+Palm House	2032 Union St	San Francisco	CA	94133				78747_20170630	2017-06-30	80.0	Routine - Unscheduled	78747_20170630_103109	Unclean or unsanitary food contact surfaces	High Risk
+Schools of the Sacred Heart - San Francisco	2222 BROADWAY St	San Francisco	CA	94115				69984_20160914	2017-09-14	87.0	Routine - Unscheduled	69984_20160914_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Caffe Bianco	39 Sutter St	San Francisco	CA	94104	37.790102	-122.401158		1582_20160426	2017-04-26	83.0	Routine - Unscheduled	1582_20160426_103105	Improper cooling methods	High Risk
+SAI JAI THAI	771 O'FARRELL St	San Francisco	CA	94109	37.785182	-122.417409	+14155675774	1734_20150406	2017-04-06	86.0	Routine - Unscheduled	1734_20150406_103145	Improper storage of equipment utensils or linens	Low Risk
+DR. TEETH AND THE ELECTRIC MAYHEM	2323 MISSION St	San Francisco	CA	94110	37.759824	-122.419136		66704_20171226	2017-12-26		Reinspection/Followup			
+BAR NONE-SF, LLC	1980 UNION St	San Francisco	CA	94123	37.797578	-122.431883	+14155920300	3345_20170524	2017-05-24	80.0	Routine - Unscheduled	3345_20170524_103153	Inadequate dressing rooms or improper storage of personal items	Low Risk
+Starbucks Coffee #9211	1 Market St	San Francisco	CA	94105				82653_20151028	2017-10-28	100.0	Routine - Unscheduled			
+Caffe Baonecci	516 Green St	San Francisco	CA	94133	37.799732	-122.407589		24437_20160805	2017-08-05	87.0	Routine - Unscheduled	24437_20160805_103157	Food safety certificate or food handler card not available	Low Risk
+Happy Chinese Restaurant	1324 Powell St	San Francisco	CA	94133	37.796848	-122.410097		3817_20160408	2017-04-08		Reinspection/Followup			
+Harvest Urban Market	191 08th St	San Francisco	CA	94103	37.776384	-122.411684	+14155620805	10332_20160316	2017-03-16	68.0	Routine - Unscheduled	10332_20160316_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Luen Fat Market	1135 Stockton St	San Francisco	CA	94133	37.796303	-122.408354		6962_20150616	2017-06-16		Non-inspection site visit			
+EXECUTIVE CAFE	150 EXECUTIVE PARK Blvd 2000	San Francisco	CA	94134	37.711323	-122.393371	+14155532612	1788_20150909	2017-09-09	87.0	Routine - Unscheduled	1788_20150909_103129	Insufficient hot water or running water	Moderate Risk
+Juicy Fruit	768 Jackson St	San Francisco	CA	94133				71187_20160823	2017-08-23	75.0	Routine - Unscheduled	71187_20160823_103135	No person in charge of food facility	Low Risk
+MENKEE WONTON	1701 Noriega St	San Francisco	CA	94122	37.753954	-122.481866		35702_20161122	2017-11-22	79.0	Routine - Unscheduled	35702_20161122_103102	Unclean hands or improper use of gloves	High Risk
+GM Market Inc.	958 Geneva Ave	San Francisco	CA	94112	37.715948	-122.44015		69026_20161209	2017-12-09	90.0	Routine - Unscheduled	69026_20161209_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Little Paris	1131 Stockton St	San Francisco	CA	94133			+14155984057	71012_20160302	2017-03-02	72.0	Routine - Unscheduled	71012_20160302_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+LAWTON ELEMENTARY SCHOOL	1570 31st Ave	San Francisco	CA	94122	37.758013	-122.489596		5787_20150423	2017-04-23	93.0	Routine - Unscheduled	5787_20150423_103102	Unclean hands or improper use of gloves	High Risk
+Mission Hunan Restaurant	2960 16th St	San Francisco	CA	94103	37.765142	-122.419026	+14155628288	2409_20180201	2017-02-01	72.0	Routine - Unscheduled	2409_20180201_103114	High risk vermin infestation	High Risk
+Bartlett Hall	242 O'Farrell St	San Francisco	CA	94102				77789_20160909	2017-09-09	81.0	Routine - Unscheduled	77789_20160909_103133	Foods not protected from contamination	Moderate Risk
+MOSCOW & TBILSI BAKERY STORE	5540 GEARY Blvd	San Francisco	CA	94121	37.780439	-122.478982		3189_20170228	2017-02-28	87.0	Routine - Unscheduled	3189_20170228_103102	Unclean hands or improper use of gloves	High Risk
+California Grocery	123 Eddy St	San Francisco	CA	94102	37.784303	-122.409647	+14155448608	62064_20160411	2017-04-11	75.0	Routine - Unscheduled	62064_20160411_103129	Insufficient hot water or running water	Moderate Risk
+Chez Maman	401 Gough St	San Francisco	CA	94102	37.776889	-122.423039	+14155908177	69110_20170713	2017-07-13		Reinspection/Followup			
+Marines Memorial Club - Banquet	609 Sutter St 10th Floor	San Francisco	CA	94102	37.788954	-122.410467		2925_20161207	2017-12-07	88.0	Routine - Unscheduled	2925_20161207_103132	Improper thawing methods	Moderate Risk
+Pizza Zone & Grill	178 Valencia St	San Francisco	CA	94102	37.779847	-122.418985		38112_20161118	2017-11-18	88.0	Routine - Unscheduled	38112_20161118_103133	Foods not protected from contamination	Moderate Risk
+Hinata Sushi	810 Van Ness Ave	San Francisco	CA	94109				83040_20170130	2017-01-30	92.0	Routine - Unscheduled	83040_20170130_103128	Consumer advisory not provided for raw or undercooked foods	Moderate Risk
+AT&T PARK - Draft Beer Cart	24 Willie Mays Plaza	San Francisco	CA	94107				79006_20150419	2017-04-19	92.0	Routine - Unscheduled	79006_20150419_103129	Insufficient hot water or running water	Moderate Risk
+Taqueria Cazadores	1600 C Mission St	San Francisco	CA	94110	37.749851	-122.415121	+14156781286	59044_20180315	2017-03-15		Administrative or Document Review			
+LUCCA RAVIOLI CO	1100 VALENCIA St	San Francisco	CA	94110	37.755177	-122.420995	+14155645581	4884_20171211	2017-12-11	98.0	Routine - Unscheduled	4884_20171211_103161	Low risk vermin infestation	Low Risk
+VINH KHANG HERBS & GINSENG	512 CLEMENT St	San Francisco	CA	94118	37.782957	-122.464762		7555_20160310	2017-03-10	90.0	Routine - Unscheduled	7555_20160310_103145	Improper storage of equipment utensils or linens	Low Risk
+LICK MIDDLE SCHOOL	1220 Noe St	San Francisco	CA	94114	37.74949	-122.43175	+14155816139	5813_20151021	2017-10-21	96.0	Routine - Unscheduled	5813_20151021_103120	Moderate risk food holding temperature	Moderate Risk
+It' Sugar	333 Jefferson St Space B-101	San Francisco	CA	94133	37.807923	-122.417887		68895_20151109	2017-11-09	96.0	Routine - Unscheduled	68895_20151109_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Bien Hoa	463 Ellis St	San Francisco	CA	94102	37.784734	-122.413776		26343_20160309	2017-03-09	96.0	Routine - Unscheduled	26343_20160309_103131	Moderate risk vermin infestation	Moderate Risk
+YANK SING	49 STEVENSON St	San Francisco	CA	94105	37.789867	-122.399462		3200_20150702	2017-07-02	92.0	Routine - Unscheduled	3200_20150702_103142	Unclean nonfood contact surfaces	Low Risk
+Peekadoodle Kidsclub	900 North Point St #F100	San Francisco	CA	94109	37.805427	-122.422854		36645_20160310	2017-03-10	91.0	Routine - Unscheduled	36645_20160310_103157	Food safety certificate or food handler card not available	Low Risk
+Soma Fresh Meat and Deli	1000 Howard St	San Francisco	CA	94103				68860_20170829	2017-08-29		Complaint	68860_20170829_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Donut Time	2401 Noriega St	San Francisco	CA	94122	37.753633	-122.48954		510_20170919	2017-09-19	88.0	Routine - Unscheduled	510_20170919_103133	Foods not protected from contamination	Moderate Risk
+The Salvation Army	1156 Valencia St	San Francisco	CA	94110	37.754397	-122.420915	+14155640260	5999_20171128	2017-11-28	90.0	Routine - Unscheduled	5999_20171128_103142	Unclean nonfood contact surfaces	Low Risk
+Ganim's Market	1135 18th St	San Francisco	CA	94107	37.762686	-122.393975		68407_20150603	2017-06-03		Reinspection/Followup			
+New Hollywood Bakery & Restaurant	652 Pacific Ave	San Francisco	CA	94133				852_20171129	2017-11-29	83.0	Routine - Unscheduled	852_20171129_103114	High risk vermin infestation	High Risk
+La Taqueria Guadalajara	3146 24th St	San Francisco	CA	94110	37.752512	-122.415109	+14155644892	32671_20170110	2017-01-10	70.0	Routine - Unscheduled	32671_20170110_103102	Unclean hands or improper use of gloves	High Risk
+Henry's Hunan North Restaurant	1398 Grant Ave	San Francisco	CA	94133				77054_20180124	2017-01-24	80.0	Routine - Unscheduled	77054_20180124_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Gott's Roadside Tray Gourmet	1 Ferry Building #6	San Francisco	CA	94111	37.795225	-122.39377		65622_20161128	2017-11-28	92.0	Routine - Unscheduled	65622_20161128_103150	Improper or defective plumbing	Low Risk
+KENMORE RESIDENCE CLUB	1570 SUTTER St	San Francisco	CA	94109	37.787017	-122.426234	+14155775815	2031_20160318	2017-03-18	88.0	Routine - Unscheduled	2031_20160318_103154	Unclean or degraded floors walls or ceilings	Low Risk
+LA VIE VIETNAMESE REST	5830 GEARY Blvd	San Francisco	CA	94121	37.780298	-122.482022		2596_20160609	2017-06-09	74.0	Routine - Unscheduled	2596_20160609_103132	Improper thawing methods	Moderate Risk
+Nile Cafe	544 Jones St	San Francisco	CA	94102	37.786307	-122.413026		17933_20160226	2017-02-26	84.0	Routine - Unscheduled	17933_20160226_103156	Permit license or inspection report not posted	Low Risk
+Ten Ren Tea	550 Grant Ave	San Francisco	CA	94108				70207_20160318	2017-03-18		New Construction			
+Kawika's Ocean Beach Deli and Catering LLC	734 La Playa St	San Francisco	CA	94121			+14155222031	76698_20151112	2017-11-12	100.0	Routine - Unscheduled			
+AFC Sushi @Safeway 739	3350 Mission St	San Francisco	CA	94110	37.742998	-122.421638		28976_20160127	2017-01-27	96.0	Routine - Unscheduled	28976_20160127_103156	Permit license or inspection report not posted	Low Risk
+Subway Sandwiches #33847	795 A Folsom St	San Francisco	CA	94107				81861_20170831	2017-08-31	92.0	Routine - Unscheduled	81861_20170831_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Tin Vietnamese Cuisine	937 Howard St	San Francisco	CA	94103	37.780828	-122.405752		61391_20160406	2017-04-06	75.0	Routine - Unscheduled	61391_20160406_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+TURK & LARKIN DELI	476 TURK St	San Francisco	CA	94102	37.782458	-122.416873	+14155776889	3038_20160620	2017-06-20	73.0	Routine - Unscheduled	3038_20160620_103102	Unclean hands or improper use of gloves	High Risk
+The Cheesecake Factory	251 Geary St, 8th Floor	San Francisco	CA	94102	37.787423	-122.407417		2898_20150818	2017-08-18	81.0	Routine - Unscheduled	2898_20150818_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+ZA	1919 Hyde St	San Francisco	CA	94109	37.798553	-122.418964		2053_20150730	2017-07-30	90.0	Routine - Unscheduled	2053_20150730_103131	Moderate risk vermin infestation	Moderate Risk
+Mathilde French Bistro	315 05th St	San Francisco	CA	94107				82207_20150623	2017-06-23	92.0	Routine - Unscheduled	82207_20150623_103131	Moderate risk vermin infestation	Moderate Risk
+Wild Hare	2801 California St	San Francisco	CA	94115			+14156622408	87542_20170509	2017-05-09	85.0	Routine - Unscheduled	87542_20170509_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Subway #36339	1099 Mission St	San Francisco	CA		37.779466	-122.410903	+14155249033	35469_20161209	2017-12-09	90.0	Routine - Unscheduled	35469_20161209_103156	Permit license or inspection report not posted	Low Risk
+Osha Express	1 Market St #21B	San Francisco	CA	94105	37.794347	-122.394932		68615_20170316	2017-03-16	73.0	Routine - Unscheduled	68615_20170316_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+The Brick Yard	1787 Union St	San Francisco	CA	94123	37.797933	-122.428627	+14156677676	63082_20170824	2017-08-24	78.0	Routine - Unscheduled	63082_20170824_103129	Insufficient hot water or running water	Moderate Risk
+The Willows	1582 Folsom St	San Francisco	CA	94103				77767_20171023	2017-10-23	92.0	Routine - Unscheduled	77767_20171023_103123	Food in poor condition	Moderate Risk
+Ninki Sushi Bar & Restaurant	1439 TARAVAL St	San Francisco	CA	94116	37.742743	-122.481749		60518_20170824	2017-08-24	78.0	Routine - Unscheduled	60518_20170824_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+The Morning Fix	1008 Bush St	San Francisco	CA	94109	37.789548	-122.413964		27851_20170424	2017-04-24	100.0	Routine - Unscheduled			
+Roam Artisan Burgers	1785 UNION St	San Francisco	CA	94123	37.797954	-122.428477	+14155414247	63047_20150611	2017-06-11	90.0	Routine - Unscheduled	63047_20150611_103150	Improper or defective plumbing	Low Risk
+NEW EMMY'S RESTAURANT	1923 OCEAN Ave	San Francisco	CA	94127	37.725404	-122.462776	+14155728615	2808_20170621	2017-06-21	81.0	Routine - Unscheduled	2808_20170621_103103	High risk food holding temperature	High Risk
+Luce Restaurant &  Bar	888 Howard St 1st Floor	San Francisco	CA	94103	37.781664	-122.404778		37166_20161215	2017-12-15	92.0	Routine - Unscheduled	37166_20161215_103120	Moderate risk food holding temperature	Moderate Risk
+The Brick Yard	1787 Union St	San Francisco	CA	94123	37.797933	-122.428627	+14156677676	63082_20150602	2017-06-02		Reinspection/Followup	63082_20150602_103147	Inadequate ventilation or lighting	Low Risk
+MEXICO AU PARC	24 SOUTH PARK STREET	San Francisco	CA	94107	37.782218	-122.393423		9156_20180322	2017-03-22		Reinspection/Followup			
+The Organic Coup	224 Kearny St	San Francisco	CA	94108				88708_20170210	2017-02-10	100.0	Routine - Unscheduled			
+Dabba	Off the Grid	San Francisco	CA				+14155697876	85857_20170318	2017-03-18		Structural Inspection	85857_20170318_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Subway #36339	1099 Mission St	San Francisco	CA		37.779466	-122.410903	+14155249033	35469_20171129	2017-11-29		Complaint	35469_20171129_103154	Unclean or degraded floors walls or ceilings	Low Risk
+DIVA'S	1081 Post St	San Francisco	CA	94109			+14155473482	4323_20170915	2017-09-15		Non-inspection site visit			
+Manzoni	2790 Diamond St	San Francisco	CA	94131	37.73473	-122.433823	+14155332251	60544_20160929	2017-09-29	92.0	Routine - Unscheduled	60544_20160929_103157	Food safety certificate or food handler card not available	Low Risk
+Lombard Union 76	2498 LOMBARD St	San Francisco	CA	94123	37.799078	-122.442374		34387_20160414	2017-04-14	96.0	Routine - Unscheduled	34387_20160414_103142	Unclean nonfood contact surfaces	Low Risk
+SF Bistro	22 4th St	San Francisco	CA	94103			+14158795962	86330_20160204	2017-02-04	90.0	Routine - Unscheduled	86330_20160204_103120	Moderate risk food holding temperature	Moderate Risk
+Homegrown Sustainable Sandwiches	222 Battery St	San Francisco	CA	94111			+14157569240	89694_20170106	2017-01-06		New Ownership			
+GEORGE'S ZOO	2560 SLOAT Blvd	San Francisco	CA	94116	37.735488	-122.501599		4842_20160621	2017-06-21	90.0	Routine - Unscheduled	4842_20160621_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Chaiya Thai Restaurant	272 Claremont Blvd	San Francisco	CA	94127			+14155990345	83097_20150527	2017-05-27		New Ownership			
+Beeps Burgers	1051 Ocean Ave	San Francisco	CA	94112			+14155582650	78996_20160504	2017-05-04	94.0	Routine - Unscheduled	78996_20160504_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Massawa Restaurant	532 Green St	San Francisco	CA	94133			+14155624129	85397_20160926	2017-09-26	91.0	Routine - Unscheduled	85397_20160926_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Kitchen Story Cafe	3499 16th St	San Francisco	CA	94114			+14155939663	70184_20151223	2017-12-23	66.0	Routine - Unscheduled	70184_20151223_103131	Moderate risk vermin infestation	Moderate Risk
+S & B Supermarket Inc.	2203 Irving St	San Francisco	CA	94122				79401_20171010	2017-10-10	92.0	Routine - Unscheduled	79401_20171010_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+LAS TINAJAS	2338 MISSION St	San Francisco	CA	94110	37.759567	-122.419185	+14155699933	2347_20150520	2017-05-20	91.0	Routine - Unscheduled	2347_20150520_103105	Improper cooling methods	High Risk
+Jane	925 Larkin St	San Francisco	CA	94109				76685_20171208	2017-12-08	86.0	Routine - Unscheduled	76685_20171208_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+Bon Appetit Management Co (9th Floor)	685 Market St 520	San Francisco	CA				+14155612862	81357_20171205	2017-12-05	100.0	Routine - Unscheduled			
+La Promenade Cafe	3643 Balboa St	San Francisco	CA	94121			+14155226063	75678_20180220	2017-02-20	88.0	Routine - Unscheduled	75678_20180220_103157	Food safety certificate or food handler card not available	Low Risk
+San Francisco Proper Hotel	1100 Market St 1st Floor	San Francisco	CA	94102				92201_20171101	2017-11-01	100.0	Routine - Unscheduled			
+Stanford Court Hotel	905 California St	San Francisco	CA	94108				81250_20160727	2017-07-27	90.0	Routine - Unscheduled	81250_20160727_103143	Inadequate warewashing facilities or equipment	Low Risk
+Puccini & Pinetti	129 Ellis St	San Francisco	CA	94102				79296_20170905	2017-09-05		New Construction			
+Gourment Noodle House	3751 Geary Blvd	San Francisco	CA	94118			+14155227427	75701_20160919	2017-09-19	77.0	Routine - Unscheduled	75701_20160919_103149	Wiping cloths not clean or properly stored or inadequate sanitizer	Low Risk
+Burgermeister	759 Columbus Ave	San Francisco	CA	94133	37.801696	-122.412257		11492_20170321	2017-03-21	90.0	Routine - Unscheduled	11492_20170321_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Nihon	1779 Folsom St	San Francisco	CA	94103	37.768654	-122.415586		16751_20171107	2017-11-07	96.0	Routine - Unscheduled	16751_20171107_103161	Low risk vermin infestation	Low Risk
+Yemen Kitchen, Inc.	219 Jones St	San Francisco	CA	94102				90487_20180117	2017-01-17		Reinspection/Followup			
+Restaurante Montecristo	3723 Mission St	San Francisco	CA	94110				79050_20161019	2017-10-19	90.0	Routine - Unscheduled	79050_20161019_103142	Unclean nonfood contact surfaces	Low Risk
+The Station	596 Pacific Ave	San Francisco	CA	94133	37.797129	-122.40531		69828_20171031	2017-10-31	92.0	Routine - Unscheduled	69828_20171031_103144	Unapproved or unmaintained equipment or utensils	Low Risk
+THE Art Bistro	6900 GEARY BLVD	San Francisco	CA	94121	37.779718	-122.493662		14568_20170807	2017-08-07	94.0	Routine - Unscheduled	14568_20170807_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Yield	2490 03rd St	San Francisco	CA	94107	37.75812	-122.388512		23557_20170207	2017-02-07	89.0	Routine - Unscheduled	23557_20170207_103157	Food safety certificate or food handler card not available	Low Risk
+The Irish Bank Bar & Restaurant	10 Mark Ln	San Francisco	CA	94108	37.790324	-122.404774		34814_20160420	2017-04-20	87.0	Routine - Unscheduled	34814_20160420_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Pat's Cafe	2330 Taylor St	San Francisco	CA	94133	37.803947	-122.414927		1852_20170106	2017-01-06	88.0	Routine - Unscheduled	1852_20170106_103154	Unclean or degraded floors walls or ceilings	Low Risk
+EMPEROR PALACE RESTAURANT	0530 BALBOA St	San Francisco	CA	94118	37.777253	-122.464359		2544_20170831	2017-08-31	79.0	Routine - Unscheduled	2544_20170831_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Mourad	140 New Montgomery St	San Francisco	CA					74975_20160815	2017-08-15	85.0	Routine - Unscheduled	74975_20160815_103109	Unclean or unsanitary food contact surfaces	High Risk
+The Morris	2501 Mariposa St	San Francisco	CA	94110			+14150710693	87203_20160912	2017-09-12		New Construction			
+Powder	260 Divisadero St	San Francisco	CA	94117			+14155928183	86355_20160823	2017-08-23		Structural Inspection			
+HARD KNOX CAFE	2526 03rd St	San Francisco	CA	94107	37.757555	-122.388443		2152_20170202	2017-02-02	89.0	Routine - Unscheduled	2152_20170202_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Bill's Place	2315 Clement St	San Francisco	CA	94121				86359_20170619	2017-06-19	79.0	Routine - Unscheduled	86359_20170619_103154	Unclean or degraded floors walls or ceilings	Low Risk
+Mercury Cafe	201 Octavia St	San Francisco	CA	94102	37.773887	-122.424182		57751_20160405	2017-04-05	92.0	Routine - Unscheduled	57751_20160405_103161	Low risk vermin infestation	Low Risk
+Super Pan	5344 Geary Blvd	San Francisco	CA	94121				84615_20160628	2017-06-28	86.0	Routine - Unscheduled	84615_20160628_103133	Foods not protected from contamination	Moderate Risk
+The Salzburg	663 Union St	San Francisco	CA	94133				92446_20171003	2017-10-03		New Ownership			
+The Mission Oyster Bar Seafood Rest. & Mkt.t	2282 MISSION St	San Francisco	CA	94110			+14155217250	69813_20160419	2017-04-19	89.0	Routine - Unscheduled	69813_20160419_103133	Foods not protected from contamination	Moderate Risk
+Battery Street Coffee Roastery	950 Battery St	San Francisco	CA	94111	37.800178	-122.401317		1850_20171106	2017-11-06	92.0	Routine - Unscheduled	1850_20171106_103162	Other low risk violation	Low Risk
+Saigon Sandwiches	560 Larkin St	San Francisco	CA	94102				80312_20170928	2017-09-28	78.0	Routine - Unscheduled			
+Panuchos	620 Broadway St	San Francisco	CA	94133				89393_20170103	2017-01-03	83.0	Routine - Unscheduled	89393_20170103_103133	Foods not protected from contamination	Moderate Risk
+Tian Tian Market, Inc.	1117 Stockton St	San Francisco	CA	94133				86180_20161205	2017-12-05	84.0	Routine - Unscheduled	86180_20161205_103153	Inadequate dressing rooms or improper storage of personal items	Low Risk
+Candi Me	3520 20th St., Suite 1	San Francisco	CA	94110				92427_20170804	2017-08-04		New Ownership			
+J. Georgie's Donuts and Restaurant	2462 San Bruno Ave	San Francisco	CA					72025_20161102	2017-11-02	86.0	Routine - Unscheduled	72025_20161102_103120	Moderate risk food holding temperature	Moderate Risk
+Tsing Tao #2	1117 Fillmore St	San Francisco	CA	94115				76886_20170425	2017-04-25	72.0	Routine - Unscheduled	76886_20170425_103119	Inadequate and inaccessible handwashing facilities	Moderate Risk
+Poke Bar	1355 Market St	San Francisco	CA	94103			+14153557708	86567_20160524	2017-05-24		New Construction			
+BAR NONE-SF, LLC	1980 UNION St	San Francisco	CA	94123	37.797578	-122.431883	+14155920300	3345_20170524	2017-05-24	80.0	Routine - Unscheduled	3345_20170524_103124	Inadequately cleaned or sanitized food contact surfaces	Moderate Risk
+Sofia Cafe	3463 16th St	San Francisco	CA	94114			+14155718656	89516_20170830	2017-08-30	79.0	Routine - Unscheduled	89516_20170830_103133	Foods not protected from contamination	Moderate Risk
+SOTA (SCHOOL OF THE ARTS)	555 Portola Dr	San Francisco	CA	94131	37.745674	-122.45085	+14155695700	5855_20171117	2017-11-17	100.0	Routine - Unscheduled			
+Camp	4014 GEARY Blvd	San Francisco	CA	94118	37.781198	-122.462511		66901_20161026	2017-10-26	86.0	Routine - Unscheduled	66901_20161026_103131	Moderate risk vermin infestation	Moderate Risk
